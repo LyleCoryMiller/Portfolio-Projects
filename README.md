@@ -1,35 +1,27 @@
-## 📊 Project #1: Sales & Returns Performance Analysis
+## Lyle Cory Miller – Portfolio Projects
 
-📌 Project Overview
+A collection of business and operations analysis projects showcasing real-world problem-solving and data-driven decision-making.
 
-This project analyzes sales performance and product returns using the Sample - Superstore Sales Dataset. The goal is to identify trends in sales and returns, measure profit impact, and provide insights to optimize business performance.
+## 📂 Repository Overview
 
-## 📂 Dataset Information
+This repository contains a collection of professional projects demonstrating business analysis, operations analysis, CRM insights, and system analysis skills. Each project applies real-world data, business intelligence tools, and structured methodologies to extract insights and drive informed decision-making.
 
-- The dataset includes sales transactions from 2018 to 2021, covering products, categories, regions, and return details.
-- Cleaned and processed to ensure accurate reporting and analysis.
+## 📌 About Me
 
-## 🎯 Objectives
+I am a Business Analyst with expertise in operations analysis, CRM strategy, and business intelligence tools. My projects reflect real-world business challenges, leveraging SQL, Power BI, and Tableau to drive insights and optimize business performance.
 
-- Analyze annual sales and profit trends (2018–2021).
-- Measure return rate (%) and profit loss ($) due to returns.
-- Identify subcategories with the highest return rates and financial losses.
-- Highlight key geographical regions contributing to product returns.
+🔗 LinkedIn: [](https://www.linkedin.com/in/lylecorymiller/)]
+📧 Email: [](lylecmiller.work@gmail.com)]
 
-🛠 Tools & Techniques
+## 📊 Projects
 
-- Excel → Data Cleaning & Preprocessing
-- Tableau → Data Visualization & Dashboard Creation
+1️⃣ Sales & Returns Performance Analysis
 
-## 📊 Key Insights & Findings
+Objective: Analyzed sales trends and product return patterns to optimize profitability and reduce return-related losses.
 
-- Sales & Profit Growth: Sales increased 77.68% (from $575,174 in 2018 to $1,031,128 in 2021).
-- Return Rate & Profit Loss: Overall return rate is 26.0% (roughly 1 in 4 orders returned), leading to an estimated $96,965 in profit losses.
-- Top Returned Subcategories: Binders, Paper, and Phones stand out with the highest return rates.
-- Regions with Highest Returns: California, Texas, and New York lead in product returns.
-- Return Loss by Subcategory: Copiers, Chairs, and Appliances incur the largest profit losses.
+Key Skills: Business Intelligence, Tableau, Trend Analysis
 
-## 📁 Project Files & Instructions
+## 📁 Files: Report, Cleaned Dataset, Tableau Dashboard
 
 | File Name                                    | Description                                                            |
 |---------------------------------------------|------------------------------------------------------------------------|
