@@ -81,9 +81,9 @@ Objective: Analyzed default risk factors based on credit history, education leve
 
 ## 📌 How to Use This Repository
 
-1 - Navigate to individual project folders for **detailed reports, datasets, and dashboards.**
-2 - Click on **provided GitHub links** to access full project breakdowns.
-3 - View **Tableau & Power BI dashboards** for interactive insights.
+- Navigate to individual project folders for **detailed reports, datasets, and dashboards.**
+- Click on **provided GitHub links** to access full project breakdowns.
+- View **Tableau & Power BI dashboards** for interactive insights.
 
 📌 This portfolio highlights my ability to analyze complex business data, drive strategic decision-making, and present insights through clear visual storytelling.
 
