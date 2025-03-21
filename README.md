@@ -90,9 +90,51 @@ Key Insights:
 - **Click on provided GitHub links** to access full project breakdowns.
 - **View Tableau & Power BI dashboards** for interactive insights.
 
-## 📁 **Repository Structure**
+## 📁 Repository Structure
 
-📌 This portfolio highlights my ability to analyze complex business data, drive strategic decision-making, and present insights through clear visual storytelling.
+📂 Portfolio-Projects
+│── 📂 Project-1-Sales-Performance-Analysis
+│   ├── 📄 Sales_Performance_Analysis_Report.pdf
+│   ├── 📊 Sales_Performance_Analysis_Dashboard.twbx
+│   ├── 📊 Sales_Performance_Analysis_Dashboard.png
+│   ├── 📊 Cleaned_Sales_Performance_Dataset.xlsx
+│   ├── 📄 README.md
+│
+│── 📂 Project-2-IT-Helpdesk-Analysis
+│   ├── 📄 IT_Helpdesk_Analysis_Report.pdf
+│   ├── 📊 IT_Helpdesk_Analysis_Dashboard.pbix
+│   ├── 📊 IT_Helpdesk_Analysis_Dashboard.png
+│   ├── 📊 Cleaned_IT_Ticket_Dataset.xlsx
+│   ├── 📄 README.md
+│
+│── 📂 Project-3-Global-Logistics-Performance
+│   ├── 📄 Logistics_Performance_Report.pdf
+│   ├── 📊 Logistics_Performance_Dashboard.pbix
+│   ├── 📊 Logistics_Performance_Dashboard.png
+│   ├── 📊 Cleaned_Logistics_Dataset.xlsx
+│   ├── 📄 README.md
+│
+│── 📂 Project-4-Credit-Risk-Analysis
+│   ├── 📄 Credit_Risk_Analysis_Report.pdf
+│   ├── 📊 Credit_Risk_Analysis_Dashboard.pbix
+│   ├── 📊 Credit_Risk_Analysis_Dashboard.png
+│   ├── 📊 Cleaned_Credit_Risk_Dataset.xlsx
+│   ├── 📄 README.md
+│
+│── 📄 README.md (Main portfolio file)
 
-- **LinkedIn:** [https://www.linkedin.com/in/lylecorymiller/]
-- **Email:** [lylecmiller.work@gmail.com]
+## 📊 Dataset Sources
+
+- ✔ Sample - Superstore Sales Dataset (Sales & Returns Analysis)
+- ✔ IT Help Desk Ticket Data (IT Ticketing System Analysis)
+- ✔ 2023 World Bank Logistics Performance Index (LPI) (Global Logistics Performance Dashboard)
+- ✔ Taiwan Credit Default Dataset (Credit Risk & Default Analysis)
+
+## 📌 Focus Areas & Target Roles
+
+This portfolio is designed to demonstrate expertise in **business operations, CRM strategy, and system performance analysis,** aligning with roles such as:
+
+- ✔ Business Analyst – Data-driven decision-making, trend analysis, KPI evaluation
+- ✔ Operations Analyst – Process optimization, logistics, performance tracking
+- ✔ CRM Analyst – Customer insights, retention strategies, behavioral analysis
+- ✔ Systems Analyst – IT service management, operational efficiency, data-driven IT improvements
