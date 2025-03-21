@@ -10,7 +10,7 @@ This repository contains a collection of professional projects demonstrating bus
 
 I am a Business Analyst with expertise in operations analysis, CRM strategy, and business intelligence tools. My projects reflect real-world business challenges, leveraging SQL, Power BI, and Tableau to drive insights and optimize business performance.
 
-🔗 LinkedIn: [(https://www.linkedin.com/in/lylecorymiller/)]
+🔗 LinkedIn: (https://www.linkedin.com/in/lylecorymiller/)
 📧 Email: [(lylecmiller.work@gmail.com)]
 
 ## 📊 Projects
