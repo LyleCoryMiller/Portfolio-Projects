@@ -21,7 +21,7 @@ I am a Business Analyst with expertise in operations analysis, CRM strategy, and
 Objective: Analyzed sales trends and product return patterns to optimize profitability and reduce return-related losses.
 **Key Skills:** Business Intelligence, Tableau, Trend Analysis
 
-## 📁 Files: Report, Cleaned Dataset, Tableau Dashboard
+📁 Files: Report, Cleaned Dataset, Tableau Dashboard
 📌 Key Insights:
 
 - Identified high-return products (Binders, Paper, Phones).
@@ -35,7 +35,7 @@ Objective: Analyzed sales trends and product return patterns to optimize profita
 Objective: Analyzed IT support ticket trends to improve efficiency and response times.
 **Key Skills:** Operations Analysis, SQL, Power BI
 
-## 📁 Files: Report, Cleaned Dataset, Power BI Dashboard
+📁 Files: Report, Cleaned Dataset, Power BI Dashboard
 📌 Key Insights:
 
 - Identified ticket resolution bottlenecks.
@@ -49,7 +49,7 @@ Objective: Analyzed IT support ticket trends to improve efficiency and response 
 Objective: Evaluated international logistics efficiency using 2023 Logistics Performance Index (LPI) data.
 **Key Skills:** Business Analysis, Data Visualization, KPI Reporting
 
-## 📁 Files: Report, Cleaned Dataset, Power BI Dashboard
+📁 Files: Report, Cleaned Dataset, Power BI Dashboard
 📌 Key Insights:
 
 - Assessed country-level logistics performance.
@@ -63,7 +63,7 @@ Objective: Evaluated international logistics efficiency using 2023 Logistics Per
 Objective: Analyzed default risk factors based on credit history, education level, and payment status.
 **Key Skills:** Risk Analysis, SQL, Power BI
 
-## 📁 Files: Report, Cleaned Dataset, Power BI Dashboard
+📁 Files: Report, Cleaned Dataset, Power BI Dashboard
 📌 Key Insights:
 
 - Identified key risk factors impacting default rates.
