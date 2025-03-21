@@ -22,7 +22,7 @@ Objective: Analyzed sales trends and product return patterns to optimize profita
 **Key Skills:** Business Intelligence, Tableau, Trend Analysis
 
 ## 📁 Files: Report, Cleaned Dataset, Tableau Dashboard
-## 📌 Key Insights:
+📌 Key Insights:
 
 - Identified high-return products (Binders, Paper, Phones).
 - Measured return rate (26%) and its financial impact.
@@ -36,7 +36,7 @@ Objective: Analyzed IT support ticket trends to improve efficiency and response 
 **Key Skills:** Operations Analysis, SQL, Power BI
 
 ## 📁 Files: Report, Cleaned Dataset, Power BI Dashboard
-## 📌 Key Insights:
+📌 Key Insights:
 
 - Identified ticket resolution bottlenecks.
 - Analyzed customer support efficiency.
@@ -50,7 +50,7 @@ Objective: Evaluated international logistics efficiency using 2023 Logistics Per
 **Key Skills:** Business Analysis, Data Visualization, KPI Reporting
 
 ## 📁 Files: Report, Cleaned Dataset, Power BI Dashboard
-## 📌 Key Insights:
+📌 Key Insights:
 
 - Assessed country-level logistics performance.
 - Identified top-performing and underperforming economies.
@@ -64,7 +64,7 @@ Objective: Analyzed default risk factors based on credit history, education leve
 **Key Skills:** Risk Analysis, SQL, Power BI
 
 ## 📁 Files: Report, Cleaned Dataset, Power BI Dashboard
-## 📌 Key Insights:
+📌 Key Insights:
 
 - Identified key risk factors impacting default rates.
 - Assessed credit limits and default likelihood.
@@ -85,7 +85,7 @@ Objective: Analyzed default risk factors based on credit history, education leve
 2- Click on **provided GitHub links** to access full project breakdowns.
 3- View **Tableau & Power BI dashboards** for interactive insights.
 
-## 📌 This portfolio highlights my ability to analyze complex business data, drive strategic decision-making, and present insights through clear visual storytelling.
+📌 This portfolio highlights my ability to analyze complex business data, drive strategic decision-making, and present insights through clear visual storytelling.
 
 - **LinkedIn:** [https://www.linkedin.com/in/lylecorymiller/]
 - **Email:** [lylecmiller.work@gmail.com]
