@@ -19,63 +19,68 @@ I am a Business & Operations Analyst with expertise in BI tools, SQL, and data-d
 
 📧 Email: lylecmiller.work@gmail.com
 
+
 ## 📊 Featured Projects
 
-1️⃣ Sales & Returns Performance Analysis
+### 1️⃣ Sales & Returns Performance Analysis
 
 **Objective:** Analyzed sales trends and product return patterns to optimize profitability and reduce return-related losses.
 📁 **Key Skills:** Business Intelligence, Tableau, Trend Analysis
 📁 **Files:** Report, Cleaned Dataset, Tableau Dashboard
 
-Key Insights:
+**Key Insights:**
 
 - ✔ Identified high-return products (Binders, Paper, Phones).
 - ✔ Measured return rate (26%) and its financial impact.
 - ✔ Developed strategies to reduce product return losses.
+  
+🔗 [View Full Project Details](https://github.com/yourusername/Project-1-Sales-Performance-Analysis)
 
-🔗 View Full Project Details
 
-2️⃣ IT Help Desk & Ticketing System Analysis
+### 2️⃣ IT Help Desk & Ticketing System Analysis
 
 **Objective:** Analyzed IT support ticket trends to improve efficiency and response times.
 📁 **Key Skills:** Operations Analysis, SQL, Power BI
 📁 **Files:** Report, Cleaned Dataset, Power BI Dashboard
 
-Key Insights:
+**Key Insights:**
 
 - ✔ Identified ticket resolution bottlenecks.
 - ✔ Analyzed customer support efficiency.
 - ✔ Provided recommendations for service improvements.
 
-🔗 View Full Project Details
+🔗 [View Full Project Details](https://github.com/yourusername/Project-1-Sales-Performance-Analysis)
 
-3️⃣ Global Logistics Performance Dashboard
+
+### 3️⃣ Global Logistics Performance Dashboard
 
 **Objective:** Evaluated international logistics efficiency using 2023 Logistics Performance Index (LPI) data.
 📁 **Key Skills:** Business Analysis, Data Visualization, KPI Reporting
 📁 **Files:** Report, Cleaned Dataset, Power BI Dashboard
 
-Key Insights:
+**Key Insights:**
 
 - ✔ Assessed country-level logistics performance.
 - ✔ Identified top-performing and underperforming economies.
 - ✔ Provided strategic recommendations for global supply chains.
 
-🔗 View Full Project Details
+🔗 [View Full Project Details](https://github.com/yourusername/Project-1-Sales-Performance-Analysis)
 
-4️⃣ Credit Risk & Default Analysis
+
+### 4️⃣ Credit Risk & Default Analysis
 
 **Objective:** Analyzed default risk factors based on credit history, education level, and payment status.
 📁 **Key Skills:** Risk Analysis, SQL, Power BI
 📁 **Files:** Report, Cleaned Dataset, Power BI Dashboard
 
-Key Insights:
+**Key Insights:**
 
 - ✔ Identified key risk factors impacting default rates.
 - ✔ Assessed credit limits and default likelihood.
 - ✔ Provided data-driven strategies for credit risk management.
 
-🔗 View Full Project Details
+🔗 [View Full Project Details](https://github.com/yourusername/Project-1-Sales-Performance-Analysis)
+
 
 ## 🛠 Tools & Technologies
 
