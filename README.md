@@ -2,7 +2,7 @@
 
 A collection of **business, operations, systems, and financial analysis** projects showcasing real-world problem-solving, structured decision-making, and professional dashboard development.
 
-
+---
 
 ## 📂 Repository Overview
 This repository features **real-world analysis projects** that reflect common challenges in business operations, systems support, financial risk, and global logistics. Each project leverages tools such as **SQL, Power BI, Tableau, and Excel** to deliver professional-grade insights aligned with hiring manager expectations.
@@ -13,7 +13,7 @@ This repository features **real-world analysis projects** that reflect common ch
 - **Process & System Optimization** – Identifying inefficiencies and improvements
 - **Business Decision Support** – Translating data into actionable strategy
 
-
+---
 
 ## 📌 About Me
 I am a **Business and Operations Analyst** with hands-on experience in BI tools, SQL, and insight-driven storytelling. My portfolio reflects realistic challenges aligned with roles in business analytics, system performance, CRM support, and operational intelligence.
@@ -21,7 +21,7 @@ I am a **Business and Operations Analyst** with hands-on experience in BI tools,
 🔗 [LinkedIn – lylecorymiller](https://www.linkedin.com/in/lylecorymiller/)  
 📧 lylecmiller.work@gmail.com
 
-
+---
 
 ## 📌 Focus Areas & Target Roles
 This portfolio reflects the expectations of **entry-level and junior analyst roles**, with strong alignment to:
@@ -32,7 +32,7 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 - **CRM Analyst** – Customer behavior trends, retention insight, channel performance
 - **Business Intelligence (BI) Analyst** – Dashboard development, reporting, SQL analysis
 
-
+---
 
 ## 📌 Featured Projects
 
@@ -64,6 +64,7 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 
 🔗 View Project Folder → `Project-4-Credit-Risk-Analysis`
 
+---
 
 ## 📌 Tools & Technologies
 - **SQL** – Data segmentation, queries, filtering
@@ -71,14 +72,15 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 - **Tableau** – Data visualization, storytelling
 - **Excel** – Data cleaning, transformation, entry-level modeling
   
-
+---
 
 ## 📁 Repository Structure
 ```
 Portfolio-Projects
 │
 ├── 📁 Project-1-Sales-Performance-Analysis
-│   ├── Sales_Performance_Analysis_Report.pdf
+│   ├── Sales_Returns_Performance_Analysis_Report.docx
+│   ├── Sales_Returns_Performance_Analysis_Report.pdf
 │   ├── Sales_Performance_Analysis_Dashboard.twbx
 │   ├── Sales_Performance_Analysis_Dashboard.png
 │   ├── Cleaned_Sales_Performance_Dataset.xlsx
@@ -86,7 +88,8 @@ Portfolio-Projects
 │   └── README.md
 │
 ├── 📁 Project-2-IT-Helpdesk-Analysis
-│   ├── IT_Helpdesk_Analysis_Report.pdf
+│   ├── IT_Helpdesk_Performance_Analysis_Report.docx
+│   ├── IT_Helpdesk_Performance_Analysis_Report.pdf
 │   ├── IT_Helpdesk_Analysis_Dashboard.twbx
 │   ├── IT_Helpdesk_Analysis_Dashboard.png
 │   ├── Cleaned_IT_Helpdesk_Dataset.xlsx
@@ -94,7 +97,8 @@ Portfolio-Projects
 │   └── README.md
 │
 ├── 📁 Project-3-Global-Logistics-Performance
-│   ├── Logistics_Performance_Report.pdf
+│   ├── Logistics_Performance_Analysis_Report.docx
+│   ├── Logistics_Performance_Analysis_Report.pdf
 │   ├── Logistics_Performance_Dashboard.pbix
 │   ├── Logistics_Performance_Dashboard.png
 │   ├── Cleaned_Logistics_Dataset.xlsx
@@ -103,6 +107,7 @@ Portfolio-Projects
 │   └── README.md
 │
 ├── 📁 Project-4-Credit-Risk-Analysis
+│   ├── Credit_Risk_Analysis_Report.docx
 │   ├── Credit_Risk_Analysis_Report.pdf
 │   ├── Credit_Risk_Analysis_Dashboard.pbix
 │   ├── Credit_Risk_Analysis_Dashboard.png
@@ -113,7 +118,7 @@ Portfolio-Projects
 │
 └── README.md (Main Portfolio Overview)
 ```
-
+---
 
 ## 📌 Dataset Sources
 - [Sample - Superstore Sales Dataset (Tableau)](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls) — *Project 1: Sales & Returns Analysis*
