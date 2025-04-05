@@ -27,14 +27,15 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ## 📂 Project Files & Instructions
 
-| File Name                                      | Description                                                            |
-|-----------------------------------------------|------------------------------------------------------------------------|
-| `Sales_Performance_Analysis_Report.pdf`        | Final project report with insights & recommendations                   |
-| `Sales_Performance_Analysis_Dashboard.twbx`    | Tableau workbook for interactive exploration of the dashboard          |
-| `Sales_Performance_Analysis_Dashboard.png`     | Static image preview of the Tableau dashboard                          |
-| `Cleaned_Sales_Performance_Dataset.xlsx`       | Cleaned dataset used for analysis (Excel format)                       |
-| `Cleaned_Sales_Performance_Dataset.csv`        | Cleaned dataset in CSV format                                          |
-| `README_Sales_Returns_Performance_Analysis.md` | This README file                                                       |
+| File Name                                         | Description                                                            |
+|---------------------------------------------------|------------------------------------------------------------------------|
+| `Sales_Returns_Performance_Analysis_Report.docx`  | Final project report with insights & recommendations                   |
+| `Sales_Returns_Performance_Analysis_Report.pdf`   | Final project report with insights & recommendations                   |
+| `Sales_Performance_Analysis_Dashboard.twbx`       | Tableau workbook for interactive exploration of the dashboard          |
+| `Sales_Returns_Performance_Analysis_Dashboard.png`| Static image preview of the Tableau dashboard                          |
+| `Cleaned_Sales_Performance_Dataset.xlsx`          | Cleaned dataset used for analysis (Excel format)                       |
+| `Cleaned_Sales_Performance_Dataset.csv`           | Cleaned dataset in CSV format                                          |
+| `README_Sales_Returns_Performance_Analysis.md`    | This README file                                                       |
 
 ---
 
