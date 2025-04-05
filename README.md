@@ -4,7 +4,7 @@ A collection of **business, operations, systems, and financial analysis** projec
 
 ---
 
-## 🔍 About Me
+## 📌 About Me
 I am a **Business and Operations Analyst** with a **Bachelor of Business Administration in Information Systems** from **Florida International University (FIU)**. My focus is on solving business problems through systems thinking, performance optimization, and data-supported strategy.
 
 This portfolio reflects realistic challenges aligned with roles in **business analysis**, **system performance**, **CRM support**, and **operational intelligence**.
@@ -21,7 +21,7 @@ This portfolio reflects realistic challenges aligned with roles in **business an
 
 ---
 
-## 📂 Repository Overview
+## 📌 Repository Overview
 This repository features **real-world analysis projects** that reflect common challenges in business operations, systems support, financial risk, and global logistics. Each project leverages tools such as **SQL, Power BI, Tableau, and Excel** to deliver professional-grade insights aligned with hiring manager expectations.
 
 ### 📌 Key Skills Demonstrated
