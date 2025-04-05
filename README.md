@@ -75,6 +75,48 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 ---
 ## 📁 Repository Structure
 ```
+Portfolio-Projects
+|----------------------------------------------------|
+├── Project-1-Sales-Performance-Analysis  | 
+│   ├── Sales_Performance_Analysis_Report.pdf  | 
+│   ├── Sales_Performance_Analysis_Dashboard.twbx  | 
+│   ├── Sales_Performance_Analysis_Dashboard.png  | 
+│   ├── Cleaned_Sales_Performance_Dataset.xlsx  | 
+│   ├── Cleaned_Sales_Performance_Dataset.csv  | 
+│   └── README.md  | 
+│
+├── Project-2-IT-Helpdesk-Analysis  | 
+│   ├── IT_Helpdesk_Analysis_Report.pdf  | 
+│   ├── IT_Helpdesk_Analysis_Dashboard.twbx  | 
+│   ├── IT_Helpdesk_Analysis_Dashboard.png  | 
+│   ├── Cleaned_IT_Helpdesk_Dataset.xlsx  | 
+│   ├── Cleaned_IT_Helpdesk_Dataset.csv  | 
+│   └── README.md  | 
+│
+├── Project-3-Global-Logistics-Performance  | 
+│   ├── Logistics_Performance_Report.pdf  | 
+│   ├── Logistics_Performance_Dashboard.pbix  | 
+│   ├── Logistics_Performance_Dashboard.png  | 
+│   ├── Cleaned_Logistics_Dataset.xlsx  | 
+│   ├── Cleaned_Logistics_Dataset.csv  | 
+│   ├── logistics_analysis_queries.sql  | 
+│   └── README.md  | 
+│
+├── Project-4-Credit-Risk-Analysis  | 
+│   ├── Credit_Risk_Analysis_Report.pdf  | 
+│   ├── Credit_Risk_Analysis_Dashboard.pbix  | 
+│   ├── Credit_Risk_Analysis_Dashboard.png  | 
+│   ├── Cleaned_Credit_Risk_Dataset.xlsx  | 
+│   ├── Cleaned_Credit_Risk_Dataset.csv  | 
+│   ├── Credit_Risk_Analysis_Queries.sql  | 
+│   └── README.md  | 
+│
+└── README.md (Main Portfolio Overview)
+```
+
+
+
+
 | 📂 Portfolio-Projects                                 |
 |----------------------------------------------------|
 |── 📂 `Project-1-Sales-Performance-Analysis` | 
