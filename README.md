@@ -7,7 +7,7 @@ A collection of **business, operations, systems, and financial analysis** projec
 ## 📂 Repository Overview
 This repository features **real-world analysis projects** that reflect common challenges in business operations, systems support, financial risk, and global logistics. Each project leverages tools such as **SQL, Power BI, Tableau, and Excel** to deliver professional-grade insights aligned with hiring manager expectations.
 
-### 🔧 Key Skills Demonstrated
+### 📌 Key Skills Demonstrated
 - **KPI Reporting & Visualization** – Clear, executive-ready dashboards
 - **SQL Segmentation & Trend Analysis** – Practical queries for insight extraction
 - **Process & System Optimization** – Identifying inefficiencies and improvements
@@ -81,12 +81,16 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
    ├──  Sales_Performance_Analysis_Report.pdf  | 
    ├──  Sales_Performance_Analysis_Dashboard.twbx  | 
    ├──  Sales_Performance_Analysis_Dashboard.png  |
+   ├──  Cleaned_Sales_Performance_Dataset.xlsx  |
+   ├──  Sales_Performance_Analysis_Dashboard.png  |
    ├──  Cleaned_Sales_Performance_Dataset.xlsx  | 
    ├──  README.md    |
    │
 │── 📂 `Project-2-IT-Helpdesk-Analysis`  |
    ├── IT_Helpdesk_Analysis_Report.pdf  |
    ├── IT_Helpdesk_Analysis_Dashboard.pbix  |
+   ├── IT_Helpdesk_Analysis_Dashboard.png  |
+   ├── Cleaned_IT_Ticket_Dataset.xlsx  |
    ├── IT_Helpdesk_Analysis_Dashboard.png  |
    ├── Cleaned_IT_Ticket_Dataset.xlsx  |
    ├── README.md  |
@@ -96,23 +100,27 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
    ├── Logistics_Performance_Dashboard.pbix  |
    ├── Logistics_Performance_Dashboard.png  |
    ├── Cleaned_Logistics_Dataset.xlsx  |
+   ├── Logistics_Performance_Dashboard.png  |
+   ├── Cleaned_Logistics_Dataset.xlsx  |
    ├── README.md  |
    │
 │── 📂 `Project-4-Credit-Risk-Analysis`  |
-   ├── Credit_Risk_Analysis_Report.pdf  |
-   ├── Credit_Risk_Analysis_Dashboard.pbix  |
-   ├── Credit_Risk_Analysis_Dashboard.png  |
-   ├── Cleaned_Credit_Risk_Dataset.xlsx  |
-   ├── README.md  |
+    ├── Credit_Risk_Analysis_Report.pdf
+│   ├── Credit_Risk_Analysis_Dashboard.pbix
+│   ├── Credit_Risk_Analysis_Dashboard.png
+│   ├── Cleaned_Credit_Risk_Dataset.xlsx
+│   ├── Cleaned_Credit_Risk_Dataset.csv
+│   ├── Credit_Risk_Analysis_Queries.sql
+│   └── README.md
    │
 │── `README.md (Main portfolio file)`  |
 ```
 ---
 
-## 📊 Dataset Sources
-- **Sample Superstore Dataset** – Tableau (Sales & Returns)
-- **IT Help Desk Support Tickets** – Simulated Ticket Data (Help Desk)
-- **World Bank LPI Data** – 2010–2023 (Logistics)
-- **UCI Credit Card Default Dataset** – Taiwan Credit Bureau (Credit Risk)
+## 📌 Dataset Sources
+- [Sample - Superstore Sales Dataset (Tableau)](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls) — *Project 1: Sales & Returns Analysis*
+- [Customer Support Ticket Dataset (Kaggle)](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset) — *Project 2: IT Helpdesk Analysis*
+- [World Bank Logistics Performance Index (LPI)](https://lpi.worldbank.org/international) — *Project 3: Global Logistics Performance*
+- [Default of Credit Card Clients (UCI Repository)](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients) — *Project 4: Credit Risk & Default Analysis*
 
 ---
