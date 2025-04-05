@@ -47,4 +47,4 @@ This project analyzes sales trends and return patterns to identify financial los
 ---
 
 ## 💡 Final Thoughts
-This project reflects core responsibilities of **Business Analysts**, **Operations Analysts**, and **CRM Specialists**—turning raw transaction data into actionable business insights. It demonstrates the ability to identify performance issues, support decision-making, and propose strategic improvements based on data.
+This project demonstrates core capabilities expected of **Business Analysts**, **Operations Analysts**, and **CRM Specialists**—turning raw transaction data into actionable business insights. It demonstrates the ability to identify performance issues, support decision-making, and propose strategic improvements based on data.
