@@ -1,6 +1,23 @@
-## Lyle Cory Miller – Business Portfolio Projects
+## Lyle Cory Miller – Business & Systems Analysis Portfolio
 
 A collection of **business, operations, systems, and financial analysis** projects showcasing real-world problem-solving, structured decision-making, and professional dashboard development.
+
+---
+
+## 🔍 About Me
+I am a **Business and Operations Analyst** with a **Bachelor of Business Administration in Information Systems** from **Florida International University (FIU)**. My focus is on solving business problems through systems thinking, performance optimization, and data-supported strategy.
+
+This portfolio reflects realistic challenges aligned with roles in **business analysis**, **system performance**, **CRM support**, and **operational intelligence**.
+
+📜 **Certifications**:
+- Google Data Analytics Professional Certificate  
+- Google Project Management Professional Certificate  
+- Agile Project Management – LinkedIn Learning  
+- Business Analysis – LinkedIn Learning  
+- SQL, Power BI, and Data Visualization – LinkedIn Learning
+
+🔗 [LinkedIn – lylecorymiller](https://www.linkedin.com/in/lylecorymiller/)  
+📧 lylecmiller.work@gmail.com
 
 ---
 
@@ -12,14 +29,6 @@ This repository features **real-world analysis projects** that reflect common ch
 - **SQL Segmentation & Trend Analysis** – Practical queries for insight extraction
 - **Process & System Optimization** – Identifying inefficiencies and improvements
 - **Business Decision Support** – Translating data into actionable strategy
-
----
-
-## 📌 About Me
-I am a **Business and Operations Analyst** with hands-on experience in BI tools, SQL, and insight-driven storytelling. My portfolio reflects realistic challenges aligned with roles in business analytics, system performance, CRM support, and operational intelligence.
-
-🔗 [LinkedIn – lylecorymiller](https://www.linkedin.com/in/lylecorymiller/)  
-📧 lylecmiller.work@gmail.com
 
 ---
 
