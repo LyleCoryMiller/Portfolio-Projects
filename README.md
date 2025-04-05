@@ -1,146 +1,118 @@
-## Lyle Cory Miller – Portfolio Projects
+## Lyle Cory Miller – Business Portfolio Projects
 
-A collection of business, operations, and system analysis projects showcasing real-world problem-solving and data-driven decision-making.
+A collection of **business, operations, systems, and financial analysis** projects showcasing real-world problem-solving, structured decision-making, and professional dashboard development.
+
+---
 
 ## 📂 Repository Overview
+This repository features **real-world analysis projects** that reflect common challenges in business operations, systems support, financial risk, and global logistics. Each project leverages tools such as **SQL, Power BI, Tableau, and Excel** to deliver professional-grade insights aligned with hiring manager expectations.
 
-This repository features real-world business analysis, operations insights, CRM strategy, and system performance projects designed to drive strategic decision-making. Each project applies SQL, Power BI, Tableau, and structured analysis techniques to extract insights and optimize business performance.
+### 🔧 Key Skills Demonstrated
+- **KPI Reporting & Visualization** – Clear, executive-ready dashboards
+- **SQL Segmentation & Trend Analysis** – Practical queries for insight extraction
+- **Process & System Optimization** – Identifying inefficiencies and improvements
+- **Business Decision Support** – Translating data into actionable strategy
 
-## Key Skills Demonstrated:
-- **Data-Driven Business Insights** – Translating complex data into actionable decisions
-- **Operations & Process Optimization** – Improving business efficiency and system performance
-- **Interactive Dashboards & KPI Analysis** – Creating compelling data visualizations for decision-makers
+---
 
 ## 📌 About Me
+I am a **Business and Operations Analyst** with hands-on experience in BI tools, SQL, and insight-driven storytelling. My portfolio reflects realistic challenges aligned with roles in business analytics, system performance, CRM support, and operational intelligence.
 
-I am a Business & Operations Analyst with expertise in BI tools, SQL, and data-driven problem-solving. My projects reflect real-world business challenges, using structured analysis techniques to extract key insights and optimize performance.
+🔗 [LinkedIn – lylecorymiller](https://www.linkedin.com/in/lylecorymiller/)  
+📧 lylecmiller.work@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/lylecorymiller/
+---
 
-📧 Email: lylecmiller.work@gmail.com
+## 📌 Focus Areas & Target Roles
+This portfolio reflects the expectations of **entry-level and junior analyst roles**, with strong alignment to:
 
+- **Business Analyst** – Insight generation, executive reporting, opportunity analysis
+- **Operations Analyst** – Process optimization, service performance tracking
+- **Systems Analyst** – IT & business alignment, help desk data, root-cause support
+- **CRM Analyst** – Customer behavior trends, retention insight, channel performance
+- **Business Intelligence (BI) Analyst** – Dashboard development, reporting, SQL analysis
 
-## 📊 Featured Projects
+---
 
-### 1️⃣ Sales & Returns Performance Analysis
+## 📌 Featured Projects
 
-**Objective:** Analyzed sales trends and product return patterns to optimize profitability and reduce return-related losses.
-📁 **Key Skills:** Business Intelligence, Tableau, Trend Analysis
-📁 **Files:** Report, Cleaned Dataset, Tableau Dashboard
+### `1️⃣ Sales & Returns Performance Analysis`
+- **Objective**: Assessed sales trends and return rates to reduce losses and improve profit margins.
+- **Key Tools**: Excel, Tableau
+- **Key Insights**: High-return products, $23K profit loss, 8% return rate
 
-**Key Insights:**
+🔗 View Project Folder → `Project-1-Sales-Performance-Analysis`
 
-- ✔ Identified high-return products (Binders, Paper, Phones).
-- ✔ Measured return rate (26%) and its financial impact.
-- ✔ Developed strategies to reduce product return losses.
+### `2️⃣ IT Help Desk & Ticketing System Analysis`
+- **Objective**: Evaluated IT support performance and identified areas of delay across ticket channels.
+- **Key Tools**: Excel, SQL, Tableau
+- **Key Insights**: 49.6% resolution rate, delays from pending customer responses, medium/critical overload
+
+🔗 View Project Folder → `Project-2-IT-Helpdesk-Analysis`
+
+### `3️⃣ Global Logistics Performance Dashboard`
+- **Objective**: Analyzed global LPI scores from 2010–2023 to assess trade infrastructure.
+- **Key Tools**: Excel, SQL, Power BI
+- **Key Insights**: Top/Bottom countries, infrastructure quality gaps, global LPI improvement
+
+🔗 View Project Folder → `Project-3-Global-Logistics-Performance`
+
+### `4️⃣ Credit Risk & Default Prediction`
+- **Objective**: Analyzed customer default patterns using financial and demographic indicators.
+- **Key Tools**: Excel, SQL, Power BI
+- **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
+
+🔗 View Project Folder → `Project-4-Credit-Risk-Analysis`
+
+---
+
+## 📌 Tools & Technologies
+- **SQL** – Data segmentation, queries, filtering
+- **Power BI** – Dashboards, KPI analysis, report building
+- **Tableau** – Data visualization, storytelling
+- **Excel** – Data cleaning, transformation, entry-level modeling
   
-🔗 [View Full Project Details](https://github.com/yourusername/Project-1-Sales-Performance-Analysis)
-
-
-### 2️⃣ IT Help Desk & Ticketing System Analysis
-
-**Objective:** Analyzed IT support ticket trends to improve efficiency and response times.
-📁 **Key Skills:** Operations Analysis, SQL, Power BI
-📁 **Files:** Report, Cleaned Dataset, Power BI Dashboard
-
-**Key Insights:**
-
-- ✔ Identified ticket resolution bottlenecks.
-- ✔ Analyzed customer support efficiency.
-- ✔ Provided recommendations for service improvements.
-
-🔗 [View Full Project Details](https://github.com/yourusername/Project-1-Sales-Performance-Analysis)
-
-
-### 3️⃣ Global Logistics Performance Dashboard
-
-**Objective:** Evaluated international logistics efficiency using 2023 Logistics Performance Index (LPI) data.
-📁 **Key Skills:** Business Analysis, Data Visualization, KPI Reporting
-📁 **Files:** Report, Cleaned Dataset, Power BI Dashboard
-
-**Key Insights:**
-
-- ✔ Assessed country-level logistics performance.
-- ✔ Identified top-performing and underperforming economies.
-- ✔ Provided strategic recommendations for global supply chains.
-
-🔗 [View Full Project Details](https://github.com/yourusername/Project-1-Sales-Performance-Analysis)
-
-
-### 4️⃣ Credit Risk & Default Analysis
-
-**Objective:** Analyzed default risk factors based on credit history, education level, and payment status.
-📁 **Key Skills:** Risk Analysis, SQL, Power BI
-📁 **Files:** Report, Cleaned Dataset, Power BI Dashboard
-
-**Key Insights:**
-
-- ✔ Identified key risk factors impacting default rates.
-- ✔ Assessed credit limits and default likelihood.
-- ✔ Provided data-driven strategies for credit risk management.
-
-🔗 [View Full Project Details](https://github.com/yourusername/Project-1-Sales-Performance-Analysis)
-
-
-## 🛠 Tools & Technologies
-
-- SQL – Querying & Data Manipulation
-- Power BI – Dashboard Creation & Data Visualization
-- Tableau – Business Intelligence & Data Storytelling
-- Excel – Data Cleaning & Analysis
-
-## 📌 How to Use This Repository
-
-- **Navigate to individual project folders** for detailed reports, datasets, and dashboards.
-- **Click on provided GitHub links** to access full project breakdowns.
-- **View Tableau & Power BI dashboards** for interactive insights.
-
+---
 ## 📁 Repository Structure
-
+```
 | 📂 Portfolio-Projects                                 |
 |----------------------------------------------------|
 |── 📂 `Project-1-Sales-Performance-Analysis` | 
-   ├──  📄 Sales_Performance_Analysis_Report.pdf  | 
-   ├──  📊 Sales_Performance_Analysis_Dashboard.twbx  | 
-   ├──  📊 Sales_Performance_Analysis_Dashboard.png  |
-   ├──  📊 Cleaned_Sales_Performance_Dataset.xlsx  | 
-   ├──  📄 README.md    |
+   ├──  Sales_Performance_Analysis_Report.pdf  | 
+   ├──  Sales_Performance_Analysis_Dashboard.twbx  | 
+   ├──  Sales_Performance_Analysis_Dashboard.png  |
+   ├──  Cleaned_Sales_Performance_Dataset.xlsx  | 
+   ├──  README.md    |
    │
 │── 📂 `Project-2-IT-Helpdesk-Analysis`  |
-   ├── 📄 IT_Helpdesk_Analysis_Report.pdf  |
-   ├── 📊 IT_Helpdesk_Analysis_Dashboard.pbix  |
-   ├── 📊 IT_Helpdesk_Analysis_Dashboard.png  |
-   ├── 📊 Cleaned_IT_Ticket_Dataset.xlsx  |
-   ├── 📄 README.md  |
+   ├── IT_Helpdesk_Analysis_Report.pdf  |
+   ├── IT_Helpdesk_Analysis_Dashboard.pbix  |
+   ├── IT_Helpdesk_Analysis_Dashboard.png  |
+   ├── Cleaned_IT_Ticket_Dataset.xlsx  |
+   ├── README.md  |
    │
 │── 📂 `Project-3-Global-Logistics-Performance`  |
-   ├── 📄 Logistics_Performance_Report.pdf  |
-   ├── 📊 Logistics_Performance_Dashboard.pbix  |
-   ├── 📊 Logistics_Performance_Dashboard.png  |
-   ├── 📊 Cleaned_Logistics_Dataset.xlsx  |
-   ├── 📄 README.md  |
+   ├── Logistics_Performance_Report.pdf  |
+   ├── Logistics_Performance_Dashboard.pbix  |
+   ├── Logistics_Performance_Dashboard.png  |
+   ├── Cleaned_Logistics_Dataset.xlsx  |
+   ├── README.md  |
    │
 │── 📂 `Project-4-Credit-Risk-Analysis`  |
-   ├── 📄 Credit_Risk_Analysis_Report.pdf  |
-   ├── 📊 Credit_Risk_Analysis_Dashboard.pbix  |
-   ├── 📊 Credit_Risk_Analysis_Dashboard.png  |
-   ├── 📊 Cleaned_Credit_Risk_Dataset.xlsx  |
-   ├── 📄 README.md  |
+   ├── Credit_Risk_Analysis_Report.pdf  |
+   ├── Credit_Risk_Analysis_Dashboard.pbix  |
+   ├── Credit_Risk_Analysis_Dashboard.png  |
+   ├── Cleaned_Credit_Risk_Dataset.xlsx  |
+   ├── README.md  |
    │
-│── 📄 `README.md (Main portfolio file)`  |
+│── `README.md (Main portfolio file)`  |
+```
+---
 
 ## 📊 Dataset Sources
+- **Sample Superstore Dataset** – Tableau (Sales & Returns)
+- **IT Help Desk Support Tickets** – Simulated Ticket Data (Help Desk)
+- **World Bank LPI Data** – 2010–2023 (Logistics)
+- **UCI Credit Card Default Dataset** – Taiwan Credit Bureau (Credit Risk)
 
-- ✔ Sample - Superstore Sales Dataset (Sales & Returns Analysis)
-- ✔ IT Help Desk Ticket Data (IT Ticketing System Analysis)
-- ✔ 2023 World Bank Logistics Performance Index (LPI) (Global Logistics Performance Dashboard)
-- ✔ Taiwan Credit Default Dataset (Credit Risk & Default Analysis)
-
-## 📌 Focus Areas & Target Roles
-
-This portfolio is designed to demonstrate expertise in **business operations, CRM strategy, and system performance analysis,** aligning with roles such as:
-
-- ✔ Business Analyst – Data-driven decision-making, trend analysis, KPI evaluation
-- ✔ Operations Analyst – Process optimization, logistics, performance tracking
-- ✔ CRM Analyst – Customer insights, retention strategies, behavioral analysis
-- ✔ Systems Analyst – IT service management, operational efficiency, data-driven IT improvements
+---
