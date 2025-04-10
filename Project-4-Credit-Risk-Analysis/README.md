@@ -1,5 +1,9 @@
 # 📌  Project 4 – Capital One Credit Risk Analysis
 
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?style=flat-square&logo=powerbi)
+![SQL](https://img.shields.io/badge/Language-SQL-blue?style=flat-square&logo=postgresql)
+![Excel](https://img.shields.io/badge/Tool-Excel-green?style=flat-square&logo=microsoft-excel)
+
 This project simulates how Capital One might evaluate the likelihood of customer default based on repayment history, credit limits, and demographics. SQL and Power BI were used to build insights that support risk mitigation strategies in consumer lending.
 
 ---
