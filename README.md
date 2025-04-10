@@ -147,6 +147,6 @@ Portfolio-Projects
 - [Sample - Superstore Sales Dataset (Tableau)](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls) — *Project 1: Sales & Returns Analysis*
 - [Customer Support Ticket Dataset (Kaggle)](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset) — *Project 2: IT Helpdesk Analysis*
 - [World Bank Logistics Performance Index (LPI)](https://lpi.worldbank.org/international) — *Project 3: Global Logistics Performance*
-- [Default of Credit Card Clients (UCI Repository)](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients) — *Project 4: Credit Risk & Default Analysis*
+- [Default of Credit Card Clients (UCI Repository)](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients) — *Project 4: Capital One Credit Risk Analysis*
 
 ---
