@@ -1,6 +1,6 @@
-# 📌 Project 4 – Credit Risk & Default Prediction
+# 📌  Project 4 – Capital One Credit Risk Analysis
 
-This project evaluates the likelihood of customer default based on repayment history, credit limit, and demographics. SQL and Power BI were used to build insights supporting risk mitigation strategies.
+This project simulates how Capital One might evaluate the likelihood of customer default based on repayment history, credit limits, and demographics. SQL and Power BI were used to build insights that support risk mitigation strategies in consumer lending.
 
 ---
 
@@ -21,32 +21,34 @@ This project evaluates the likelihood of customer default based on repayment his
 ## 📌 Key Insights
 - **Default Rate**: ~22% of customers defaulted on payments
 - **High Risk Factors**: Customers with payment delay codes (PAY_0 >= 2)
-- **Age Group 30-40** had highest number of defaults
-- **Low Credit Limits** linked to lower default amounts, not necessarily lower risk
+- **Age Group**: Customers around 73 years had the highest default rate (75%)
+- **Credit Limits** Higher limits generally lowered default risk, but some high-credit customers still defaulted
 
 ---
 
 ## 📂 Project Files & Instructions
 
-| File Name                                | Description                                                            |
-|-----------------------------------------|------------------------------------------------------------------------|
-| `Credit_Risk_Analysis_Report.docx`       | Final project report with insights & recommendations                   |
-| `Credit_Risk_Analysis_Report.pdf`        | Final project report with insights & recommendations                   |
-| `Credit_Risk_Analysis_Dashboard.pbix`    | Power BI dashboard for credit default insights                         |
-| `Credit_Risk_Analysis_Dashboard.png`     | Static image preview of the Power BI dashboard                         |
-| `Cleaned_Credit_Risk_Dataset.xlsx`       | Cleaned dataset used for analysis (Excel format)                       |
-| `Cleaned_Credit_Risk_Dataset.csv`        | Cleaned dataset in CSV format                                          |
-| `Credit_Risk_Analysis_Queries.sql`       | SQL queries used in the analysis                                       |
-| `README_Credit_Risk_Analysis.md`         | This README file                                                       |
+| File Name                                          | Description                                                            |
+|----------------------------------------------------|------------------------------------------------------------------------|
+| `CapitalOne_CreditRisk_Analysis_Report.docx`       | Final project report with insights & recommendations                   |
+| `CapitalOne_CreditRisk_Analysis_Report.pdf`        | Final project report with insights & recommendations                   |
+| `CapitalOne_CreditRisk_Dashboard.pbix`             | Power BI dashboard for credit default insights                         |
+| `CapitalOne_CreditRisk_Dashboard.png`              | Static image preview of the Power BI dashboard                         |
+| `CapitalOne_CreditRisk_CleanedDataset.xlsx`        | Cleaned dataset used for analysis (Excel format)                       |
+| `CapitalOne_CreditRisk_CleanedDataset.csv`         | Cleaned dataset in CSV format                                          |
+| `CapitalOne_CreditRisk_SQLQueries.sql`             | SQL queries used in the analysis                                       |
+| `README_CapitalOne_CreditRisk.md`                  | This README file                                                       |
 
 ---
 
 ## 📌 Conclusion & Recommendations
-- **Target Age & Repayment Risk**: Monitor age 30-40 and those with repeated late payments
+- **Target Age & Repayment Risk**: Monitor age groups with high risk and repeated late payments
 - **Refine Credit Strategies**: Align credit limits with repayment history to manage exposure
 - **Implement Early Intervention**: Use PAY_0 flags to trigger proactive outreach
 
 ---
 
 ## 💡 Final Thoughts
-This project showcases essential skills for **CRM Analysts**, **Business Analysts**, and **Risk Analysts** by turning credit repayment data into risk insights. It supports predictive decision-making using structured SQL queries and professional dashboards.
+This project demonstrates essential skills for **CRM Specialists**, **Business Analysts**, and **Risk Analysts** by transforming credit repayment data into actionable insights. It supports predictive decisions through structured SQL queries and a professional Power BI dashboard.
+
+
