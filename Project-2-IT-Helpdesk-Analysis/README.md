@@ -1,5 +1,12 @@
 # 📌 Project 2 – IT Helpdesk Performance Analysis
 
+![Tool](https://img.shields.io/badge/Tool-SQL-blue) 
+![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
+![Tool](https://img.shields.io/badge/Tool-Excel-green) 
+![Focus](https://img.shields.io/badge/Focus-Operations_Analysis-lightgrey) 
+![Focus](https://img.shields.io/badge/Focus-IT_Support-lightgrey) 
+![Dataset](https://img.shields.io/badge/Dataset-Helpdesk-lightgrey)
+
 This project evaluates IT helpdesk ticket performance to uncover response delays, workload patterns, and improvement opportunities. The dataset highlights ticket status trends, resolution bottlenecks, and agent performance across various support channels.
 
 ---
