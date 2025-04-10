@@ -1,5 +1,11 @@
 # 📌 Project 1 – Sales & Returns Performance Analysis
 
+![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
+![Tool](https://img.shields.io/badge/Tool-Excel-green) 
+![Focus](https://img.shields.io/badge/Focus-Sales_Analysis-lightgrey) 
+![Focus](https://img.shields.io/badge/Focus-Returns_Insights-lightgrey) 
+![Dataset](https://img.shields.io/badge/Dataset-Superstore-lightgrey)
+
 This project analyzes sales trends and return patterns to identify financial losses and optimize profitability. The dataset highlights key insights into high-return products, customer behavior, and regional return impact.
 
 ---
