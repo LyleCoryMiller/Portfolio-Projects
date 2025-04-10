@@ -73,14 +73,14 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 
 🔗 View Project Folder → `Project-2-IT-Helpdesk-Analysis`
 
-### `3️⃣ Global Logistics Performance Dashboard`
+### `3️⃣ Global Logistics Performance Analysis`
 - **Objective**: Analyzed global LPI scores from 2010–2023 to assess trade infrastructure.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Top/Bottom countries, infrastructure quality gaps, global LPI improvement
 
 🔗 View Project Folder → `Project-3-Global-Logistics-Performance`
 
-### `4️⃣ Credit Risk & Default Prediction`
+### `4️⃣ Capital One Credit Risk Analysis`
 - **Objective**: Analyzed customer default patterns using financial and demographic indicators.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
