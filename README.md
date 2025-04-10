@@ -1,16 +1,18 @@
 ## Lyle Cory Miller – Business & Systems Analysis Portfolio
 
-![Tool: Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Tool: SQL](https://img.shields.io/badge/Tool-SQL-336791?logo=postgresql&logoColor=white)
-![Tool: Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![Tool: Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?logo=tableau&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Excel-blue)
+![Tool](https://img.shields.io/badge/Tool-SQL-blue)
+![Tool](https://img.shields.io/badge/Tool-Power%20BI-gold)
+![Tool](https://img.shields.io/badge/Tool-Tableau-lightgrey)
 
-![Focus: Business Analyst](https://img.shields.io/badge/Focus-Business_Analyst-blueviolet)
-![Focus: CRM](https://img.shields.io/badge/Focus-CRM-0096D6)
-![Focus: Operations](https://img.shields.io/badge/Focus-Operations_Analysis-006400)
+![Focus](https://img.shields.io/badge/Focus-Business%20Analysis-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-CRM-blueviolet)
+![Focus](https://img.shields.io/badge/Focus-Operations%20Analysis-green)
+![Focus](https://img.shields.io/badge/Focus-Systems%20Analysis-darkgreen)
+![Focus](https://img.shields.io/badge/Focus-BI%20Analytics-darkblue)
 
-![Projects: Real-World Datasets](https://img.shields.io/badge/Projects-Real--World_Datasets-brightgreen)
-![Projects: Entry-Level](https://img.shields.io/badge/Level-Entry--Level-yellowgreen)
+![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
+![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
 A collection of **business, operations, systems, and financial analysis** projects showcasing real-world problem-solving, structured decision-making, and professional dashboard development.
 
