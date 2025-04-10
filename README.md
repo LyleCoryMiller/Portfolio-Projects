@@ -85,7 +85,7 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
 
-🔗 View Project Folder → `Project-4-Credit-Risk-Analysis`
+🔗 View Project Folder → `Project-4-Capital-One-Credit-Risk-Analysis`
 
 ---
 
