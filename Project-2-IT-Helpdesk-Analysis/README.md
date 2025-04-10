@@ -1,6 +1,5 @@
 # 📌 Project 2 – IT Helpdesk Performance Analysis
 
-![Tool](https://img.shields.io/badge/Tool-SQL-blue) 
 ![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
 ![Tool](https://img.shields.io/badge/Tool-Excel-green) 
 ![Focus](https://img.shields.io/badge/Focus-Operations_Analysis-lightgrey) 
