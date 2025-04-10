@@ -4,6 +4,13 @@
 ![SQL](https://img.shields.io/badge/Language-SQL-blue?style=flat-square&logo=postgresql)
 ![Excel](https://img.shields.io/badge/Tool-Excel-green?style=flat-square&logo=microsoft-excel)
 
+
+# Project 4 – Credit Risk & Default Prediction
+
+**Tags:** `Power BI` `SQL` `Excel` `CRM Risk Analysis`
+
+
+
 This project simulates how Capital One might evaluate the likelihood of customer default based on repayment history, credit limits, and demographics. SQL and Power BI were used to build insights that support risk mitigation strategies in consumer lending.
 
 ---
