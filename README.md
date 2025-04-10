@@ -1,5 +1,17 @@
 ## Lyle Cory Miller – Business & Systems Analysis Portfolio
 
+![Tool: Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel&logoColor=white)
+![Tool: SQL](https://img.shields.io/badge/Tool-SQL-336791?logo=postgresql&logoColor=white)
+![Tool: Power BI](https://img.shields.io/badge/Tool-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Tool: Tableau](https://img.shields.io/badge/Tool-Tableau-E97627?logo=tableau&logoColor=white)
+
+![Focus: Business Analyst](https://img.shields.io/badge/Focus-Business_Analyst-blueviolet)
+![Focus: CRM](https://img.shields.io/badge/Focus-CRM-0096D6)
+![Focus: Operations](https://img.shields.io/badge/Focus-Operations_Analysis-006400)
+
+![Projects: Real-World Datasets](https://img.shields.io/badge/Projects-Real--World_Datasets-brightgreen)
+![Projects: Entry-Level](https://img.shields.io/badge/Level-Entry--Level-yellowgreen)
+
 A collection of **business, operations, systems, and financial analysis** projects showcasing real-world problem-solving, structured decision-making, and professional dashboard development.
 
 ---
@@ -116,13 +128,13 @@ Portfolio-Projects
 │   └── README.md
 │
 ├── 📁 Project-4-Credit-Risk-Analysis
-│   ├── Credit_Risk_Analysis_Report.docx
-│   ├── Credit_Risk_Analysis_Report.pdf
-│   ├── Credit_Risk_Analysis_Dashboard.pbix
-│   ├── Credit_Risk_Analysis_Dashboard.png
-│   ├── Cleaned_Credit_Risk_Dataset.xlsx
-│   ├── Cleaned_Credit_Risk_Dataset.csv
-│   ├── Credit_Risk_Analysis_Queries.sql
+│   ├── CapitalOne_CreditRisk_Analysis_Report.docx
+│   ├── CapitalOne_CreditRisk_Analysis_Report.pdf
+│   ├── CapitalOne_CreditRisk_Dashboard.pbix
+│   ├── CapitalOne_CreditRisk_Dashboard.png
+│   ├── CapitalOne_CreditRisk_CleanedDataset.xlsx
+│   ├── CapitalOne_CreditRisk_CleanedDataset.csv
+│   ├── CapitalOne_CreditRisk_SQLQueries.sql
 │   └── README.md
 │
 └── README.md (Main Portfolio Overview)
