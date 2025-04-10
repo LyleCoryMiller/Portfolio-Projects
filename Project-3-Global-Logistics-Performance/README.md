@@ -1,5 +1,12 @@
 # 📌 Project 3 – Global Logistics Performance Analysis
 
+![Tool](https://img.shields.io/badge/Tool-SQL-blue) 
+![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow) 
+![Tool](https://img.shields.io/badge/Tool-Excel-green) 
+![Focus](https://img.shields.io/badge/Focus-Logistics_Performance-lightgrey) 
+![Focus](https://img.shields.io/badge/Focus-System_Analysis-lightgrey) 
+![Dataset](https://img.shields.io/badge/Dataset-World_Bank_LPI-lightgrey)
+
 This project analyzes international logistics capabilities based on the World Bank's Logistics Performance Index (LPI). It highlights year-over-year trade efficiency trends and regional infrastructure gaps using SQL and Power BI.
 
 ---
