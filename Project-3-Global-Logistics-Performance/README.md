@@ -35,7 +35,7 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/eabd1a27-ec1e-48d1-aa04-6312646d5a7b)
+![Dashboard Screenshot](./Sales_Returns_Performance_Analysis_Dashboard.png)
 
 ---
 
