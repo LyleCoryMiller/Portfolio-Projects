@@ -69,7 +69,6 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 ---
 
 ## Conclusion & Recommendations 💡
-
 - **Improve Customer Follow-Up**: Automate reminders for unresolved tickets in "Pending Customer Response" status.
 - **Streamline Critical Tickets**: Prioritize High/Critical issues through workflow rules and faster routing.
 - **Optimize Support Channels**: Allocate additional staff or automation for Phone and Social Media inquiries.
