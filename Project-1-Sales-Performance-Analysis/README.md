@@ -35,6 +35,8 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ![Sales_Performance_Analysis_Dashboard](https://github.com/user-attachments/assets/7cef0745-0a15-4aa9-bfed-74cbb89cfa60)
 
+![Dashboard Preview](./Sales_Returns_Performance_Analysis_Dashboard.png)
+
 ---
 
 ## 📄 Report Access
