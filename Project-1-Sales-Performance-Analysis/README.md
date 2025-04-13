@@ -10,7 +10,7 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## Table of Contents 📚
+## 📚 Table of Contents
 - [Objectives](#objectives-)
 - [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
@@ -19,7 +19,6 @@ This project analyzes sales trends and return patterns to identify financial los
 - [Project Files & Instructions](#project-files--instructions-)
 - [Conclusion & Recommendations](#conclusion--recommendations-)
 - [Final Thoughts](#final-thoughts-)
-
 
 ---
 
@@ -30,9 +29,11 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## Tools Used 🛠️
-- **Excel** – Data cleaning and calculated return metrics
-- **Tableau** – Visual dashboard for insights and KPIs
+## Tools & Technologies 🛠️
+| Tool        | Use Case                                      |
+|-------------|-----------------------------------------------|
+| **Tableau**| KPI dashboards, reporting, visuals             |
+| **Excel**   | Data cleaning, transformation, metrics        |
 
 ---
 
