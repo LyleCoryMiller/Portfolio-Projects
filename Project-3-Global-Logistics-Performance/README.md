@@ -11,7 +11,7 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ---
 
-## Table of Contents 📚
+## 📚 Table of Contents
 - [Objectives](#objectives-)
 - [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
