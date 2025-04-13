@@ -14,11 +14,7 @@
 ![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
 ![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
-👋 Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions. This portfolio showcases real-world projects that simulate challenges in operations, customer experience, and financial risk.  I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
-This portfolio showcases real-world projects that simulate challenges in operations, customer experience, and financial risk.  
-I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
-
-📄 [Download My Resume (PDF)](./LyleMiller_Resume_2025.pdf)
+👋 Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions. This portfolio showcases real-world projects that simulate challenges in operations, customer experience, and financial risk. I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
 
 ---
 
@@ -48,9 +44,6 @@ This portfolio reflects realistic challenges aligned with roles in **business an
 - Business Analysis – LinkedIn Learning  
 - SQL, Power BI, and Data Visualization – LinkedIn Learning
 
-🔗 [LinkedIn – lylecorymiller](https://www.linkedin.com/in/lylecorymiller/)  
-📧 lylecmiller.work@gmail.com
-
 ---
 
 ## Portfolio Overview 🧠
@@ -79,10 +72,10 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 An exploration of customer default behavior based on demographics and payment patterns.
 
 📊 Dashboard Preview:  
-![Capital One Dashboard](./Project-4-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
+![Capital One Dashboard](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
 
-📄 [View Full Report (PDF)](./Project-4-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)  
-🔗 [View Full Project Folder](./Project-4-Credit-Risk-Analysis)
+📄 [View Full Report (PDF)](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)  
+🔗 [View Full Project Folder](./Project-4-Capital-One-Credit-Risk-Analysis)
 
 ---
 
@@ -147,7 +140,7 @@ Portfolio-Projects
 ---
 
 ## Resume & Contact 📄
-📄 [Download My Resume (PDF)](./LyleMiller_Resume_2025.pdf)  
+📄 [Download My Resume (PDF)](https://github.com/user-attachments/files/19726884/LyleMiller_Resume_2025.pdf) 
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/lylecorymiller)  
 📧 lylecmiller.work@gmail.com
 
