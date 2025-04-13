@@ -83,10 +83,10 @@ An exploration of customer default behavior based on demographics and payment pa
 
 📊 Dashboard Preview:
 
-![Capital One Dashboard](./Project-4-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
+![Capital One Dashboard](./Project-4-Capital-One-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
 
-📄 [View Full Report](./Project-4-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)
-🔗 [View Full Project Folder](./Project-4-Credit-Risk-Analysis)
+📄 [View Full Report](./Project-4-Capital-One-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)
+🔗 [View Full Project Folder](./Project-4-Capital-One-Risk-Analysis)
 
 ---
 
