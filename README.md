@@ -118,7 +118,7 @@ An exploration of customer default behavior based on demographics and payment pa
 
 ---
 
-## Repository Structure 📁
+## 📁 Repository Structure
 ```
 Portfolio-Projects
 │
@@ -128,7 +128,6 @@ Portfolio-Projects
 ├── 📁 Project-4-Capital-One-Credit-Risk-Analysis
 └── README.md (Main Portfolio Overview)
 ```
-
 ---
 
 ## Dataset Sources 🗃
