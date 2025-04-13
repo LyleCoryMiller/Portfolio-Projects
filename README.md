@@ -24,6 +24,7 @@
 - [Key Skills Demonstrated](#key-skills-demonstrated-)
 - [Focus Areas & Target Roles](#focus-areas--target-roles-)
 - [Tools & Technologies](#tools--technologies-)
+- [Full Project List](#featured-project-)
 - [Full Project List](#full-project-list-)
 - [Repository Structure](#repository-structure-)
 - [Dataset Sources](#dataset-sources-)
