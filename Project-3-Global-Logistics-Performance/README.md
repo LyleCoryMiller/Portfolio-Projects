@@ -16,8 +16,7 @@ This project analyzes international logistics capabilities based on the World Ba
 - [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
 - [Dashboard Preview](#dashboard-preview-)
-- [Report Access](#report-access-)
-- [SQL Queries](#sql-queries-)
+- [Report_Access](#report-access-)
 - [Project Files & Instructions](#project-files--instructions-)
 - [Conclusion & Recommendations](#conclusion--recommendations-)
 - [Final Thoughts](#final-thoughts-)
@@ -53,9 +52,6 @@ This project analyzes international logistics capabilities based on the World Ba
 ## Report Access 📄
 
 - [📄 View Final Report (PDF)](./Logistics_Performance_Analysis_Report.pdf)
-
-## SQL Queries 🧾
-
 - [🧾 View SQL Queries](./logistics_analysis_queries.sql)
 
 ---
