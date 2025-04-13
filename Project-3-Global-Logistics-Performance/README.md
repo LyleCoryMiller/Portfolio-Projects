@@ -33,6 +33,19 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/user-attachments/assets/eabd1a27-ec1e-48d1-aa04-6312646d5a7b)
+
+---
+
+## 📄 Report Access
+
+- [📄 Final Report (PDF)](https://github.com/user-attachments/files/19726589/Logistics_Performance_Analysis_Report.pdf)
+- [🧾 View SQL Queries](./logistics_analysis_queries.sql)
+
+---
+
 ## 📂 Project Files & Instructions
 
 | File Name                                   | Description                                                            |
@@ -57,3 +70,12 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ## 💡 Final Thoughts
 This project reflects competencies required by **Operations Analysts** and **Business Analysts**, with a global perspective on performance benchmarking, KPI tracking, and regional improvement planning using data tools.
+
+
+
+![Logistics_Performance_Dashboard](https://github.com/user-attachments/assets/eabd1a27-ec1e-48d1-aa04-6312646d5a7b)
+
+
+[Logistics_Performance_Analysis_Report.pdf](https://github.com/user-attachments/files/19726589/Logistics_Performance_Analysis_Report.pdf)
+
+
