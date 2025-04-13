@@ -22,7 +22,7 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ---
 
-## 📌 Objectives
+## 🎯 Objectives
 - Analyze support ticket volume and resolution rates
 - Identify performance gaps by ticket type and priority
 - Recommend improvements to enhance helpdesk efficiency
@@ -36,7 +36,7 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ---
 
-## 📌 Key Insights
+## 📈 Key Insights
 - **49.6% resolution rate** across all tickets
 - **Pending Customer Response** caused most delays
 - **High/Medium priority tickets** created resolution bottlenecks
@@ -46,14 +46,12 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/b916b1e8-035b-4214-8659-7489b5199cc7)
-
----
+![Dashboard Screenshot](./IT_Helpdesk_Analysis_Dashboard.png)
 
 ## 📄 Report Access
 
-- [📄 Final Report (PDF)](https://github.com/user-attachments/files/19726580/IT_Helpdesk_Performance_Analysis_Report.pdf)
-  
+- [📄 View Final Report (PDF)](./IT_Helpdesk_Performance_Analysis_Report.pdf)
+
 ---
 
 ## 📂 Project Files & Instructions
@@ -70,12 +68,12 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ---
 
-## 📌 Conclusion & Recommendations
+## 💡 Conclusion & Recommendations
 - **Improve Customer Follow-Up**: Automate reminders for unresolved tickets in "Pending Customer Response" status.
 - **Streamline Critical Tickets**: Prioritize High/Critical issues through workflow rules and faster routing.
 - **Optimize Support Channels**: Allocate additional staff or automation for Phone and Social Media inquiries.
 
 ---
 
-## 💡 Final Thoughts
+## 📝 Final Thoughts
 This project aligns with responsibilities of **Systems Analysts**, **Operations Analysts**, and **Business Analysts** by using structured data to evaluate IT service performance, recommend improvements, and reduce operational inefficiencies.
