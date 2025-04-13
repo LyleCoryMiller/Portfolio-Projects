@@ -11,21 +11,34 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ---
 
-## 📌 Objectives
+## Table of Contents 📚
+- [Objectives](#objectives-)
+- [Tools Used](#tools-used-)
+- [Key Insights](#key-insights-)
+- [Dashboard Preview](#dashboard-preview-)
+- [Report Access](#report-access-)
+- [SQL Queries](#sql-queries-)
+- [Project Files & Instructions](#project-files--instructions-)
+- [Conclusion & Recommendations](#conclusion--recommendations-)
+- [Final Thoughts](#final-thoughts-)
+
+---
+
+## Objectives 🎯
 - Evaluate global logistics infrastructure performance from 2010 to 2023
 - Identify countries with the strongest and weakest logistics scores
 - Recommend regional improvements for trade optimization
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used 🛠️
 - **Excel** – Data preparation and formatting
 - **SQL** – Segmentation and country scoring trends
 - **Power BI** – Dashboard reporting and LPI visualization
 
 ---
 
-## 📌 Key Insights
+## Key Insights 📈
 - **Top performers**: Germany, Singapore, Netherlands led in infrastructure & customs
 - **Bottom performers**: Chad, Afghanistan, Somalia faced chronic inefficiencies
 - **LPI Global Trend**: Overall improvement in LPI from 2010 to 2023
@@ -33,20 +46,21 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview 📊
 
 ![Dashboard Screenshot](./Logistics_Performance_Dashboard.png)
 
----
-
-## 📄 Report Access
+## Report Access 📄
 
 - [📄 View Final Report (PDF)](./Logistics_Performance_Analysis_Report.pdf)
+
+## SQL Queries 🧾
+
 - [🧾 View SQL Queries](./logistics_analysis_queries.sql)
 
 ---
 
-## 📂 Project Files & Instructions
+## Project Files & Instructions 📂
 
 | File Name                                   | Description                                                            |
 |--------------------------------------------|------------------------------------------------------------------------|
@@ -61,21 +75,12 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ---
 
-## 📌 Conclusion & Recommendations
+## Conclusion & Recommendations 💡
 - **Prioritize Infrastructure Investment**: Focus on low-performing countries with poor LPI customs scores
 - **Streamline Border Procedures**: Enhance customs clearance and reduce time-to-ship delays
 - **Leverage Global Leaders**: Model supply chain policies after top LPI-ranked nations
 
 ---
 
-## 💡 Final Thoughts
+## Final Thoughts 📝
 This project reflects competencies required by **Operations Analysts** and **Business Analysts**, with a global perspective on performance benchmarking, KPI tracking, and regional improvement planning using data tools.
-
-
-
-![Logistics_Performance_Dashboard](https://github.com/user-attachments/assets/eabd1a27-ec1e-48d1-aa04-6312646d5a7b)
-
-
-[Logistics_Performance_Analysis_Report.pdf](https://github.com/user-attachments/files/19726589/Logistics_Performance_Analysis_Report.pdf)
-
-
