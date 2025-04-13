@@ -1,4 +1,4 @@
-## 📌 Lyle Cory Miller – Business & Systems Analysis Portfolio
+# 📌 Lyle Cory Miller – Business & Systems Analysis Portfolio
 
 ![Tool](https://img.shields.io/badge/Tool-Excel-blue)
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
@@ -14,17 +14,29 @@
 ![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
 ![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
-Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions.  
+👋 Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions.  
 This portfolio showcases real-world projects that simulate challenges in operations, customer experience, and financial risk.  
 I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
-
----
 
 📄 [Download My Resume (PDF)](./LyleMiller_Resume_2025.pdf)
 
 ---
 
-## 📚 About Me  
+## 📚 Table of Contents
+- [About Me](#about-me-)
+- [Portfolio Overview](#portfolio-overview-)
+- [Focus Areas & Target Roles](#focus-areas--target-roles-)
+- [Featured Project – Capital One Credit Risk Analysis](#featured-project--capital-one-credit-risk-analysis-)
+- [Full Project List](#full-project-list-)
+- [Tools & Technologies](#tools--technologies-)
+- [Repository Structure](#repository-structure-)
+- [Dataset Sources](#dataset-sources-)
+- [Resume & Contact](#resume--contact-)
+- [Final Thoughts](#final-thoughts-)
+
+---
+
+## About Me 📚
 I am a **Business and Operations Analyst** with a **Bachelor of Business Administration in Information Systems** from **Florida International University (FIU)**. My focus is on solving business problems through systems thinking, performance optimization, and data-supported strategy.
 
 This portfolio reflects realistic challenges aligned with roles in **business analysis**, **system performance**, **CRM support**, and **operational intelligence**.
@@ -41,24 +53,10 @@ This portfolio reflects realistic challenges aligned with roles in **business an
 
 ---
 
-## 📚 Table of Contents
-- [About Me](#about-me)
-- [Portfolio Overview](#portfolio-overview)
-- [Focus Areas & Target Roles](#focus-areas--target-roles)
-- [Featured Project – Capital One Credit Risk Analysis](#featured-project--capital-one-credit-risk-analysis)
-- [Full Project List](#full-project-list)
-- [Tools & Technologies](#tools--technologies)
-- [Repository Structure](#repository-structure)
-- [Dataset Sources](#dataset-sources)
-- [Resume & Contact](#resume--contact)
-- [Final Thoughts](#final-thoughts)
-
----
-
-## 📌 Repository Overview
+## Portfolio Overview 🧠
 This repository features **real-world analysis projects** that reflect common challenges in business operations, systems support, financial risk, and global logistics. Each project leverages tools such as **SQL, Power BI, Tableau, and Excel** to deliver professional-grade insights aligned with hiring manager expectations.
 
-### 📌 Key Skills Demonstrated
+### Key Skills Demonstrated 📌
 - **KPI Reporting & Visualization** – Clear, executive-ready dashboards
 - **SQL Segmentation & Trend Analysis** – Practical queries for insight extraction
 - **Process & System Optimization** – Identifying inefficiencies and improvements
@@ -66,7 +64,7 @@ This repository features **real-world analysis projects** that reflect common ch
 
 ---
 
-## 📌 Focus Areas & Target Roles
+## Focus Areas & Target Roles 💼
 This portfolio reflects the expectations of **entry-level and junior analyst roles**, with strong alignment to:
 
 - **Business Analyst** – Insight generation, executive reporting, opportunity analysis
@@ -77,59 +75,53 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 
 ---
 
-### 🔍 Featured Project – Capital One Credit Risk Analysis
-
+## Featured Project – Capital One Credit Risk Analysis 🚀
 An exploration of customer default behavior based on demographics and payment patterns.
 
-📊 Dashboard Preview:
+📊 Dashboard Preview:  
+![Capital One Dashboard](./Project-4-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
 
-![Capital One Dashboard](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
-
-📄 [View Full Report](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)
-🔗 [View Full Project Folder](./Project-4-Capital-One-Credit-Risk-Analysis)
+📄 [View Full Report (PDF)](./Project-4-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)  
+🔗 [View Full Project Folder](./Project-4-Credit-Risk-Analysis)
 
 ---
 
-## 📌 Featured Projects
+## Full Project List 📂
 
 ### `1️⃣ Sales & Returns Performance Analysis`
 - **Objective**: Assessed sales trends and return rates to reduce losses and improve profit margins.
 - **Key Tools**: Excel, Tableau
 - **Key Insights**: High-return products, $23K profit loss, 8% return rate
-
 🔗 View Project Folder → `Project-1-Sales-Performance-Analysis`
 
 ### `2️⃣ IT Help Desk & Ticketing System Analysis`
 - **Objective**: Evaluated IT support performance and identified areas of delay across ticket channels.
 - **Key Tools**: Excel, SQL, Tableau
 - **Key Insights**: 49.6% resolution rate, delays from pending customer responses, medium/critical overload
-
 🔗 View Project Folder → `Project-2-IT-Helpdesk-Analysis`
 
 ### `3️⃣ Global Logistics Performance Analysis`
 - **Objective**: Analyzed global LPI scores from 2010–2023 to assess trade infrastructure.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Top/Bottom countries, infrastructure quality gaps, global LPI improvement
-
 🔗 View Project Folder → `Project-3-Global-Logistics-Performance`
 
 ### `4️⃣ Capital One Credit Risk Analysis`
 - **Objective**: Analyzed customer default patterns using financial and demographic indicators.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
-
 🔗 View Project Folder → `Project-4-Capital-One-Credit-Risk-Analysis`
 
 ---
 
-## Tools Used 🛠️
+## Tools & Technologies 🧰
 | Tool        | Use Case                                      |
 |-------------|-----------------------------------------------|
 | **SQL**     | Data queries, segmentation, filtering         |
-| **Power BI**| KPI dashboards, reporting, executive visuals  |
-| **Tableau** | Data storytelling, ticket analysis, mapping   |
-| **Excel**   | Data cleaning, prep, return tracking           |
-| **Lucidchart** | System diagrams, ERDs, DFDs               |
+| **Power BI**| KPI dashboards, reporting, visuals            |
+| **Tableau** | Data storytelling, service insights           |
+| **Excel**   | Data cleaning, transformation, metrics        |
+| **Lucidchart** | ERDs, DFDs, system analysis diagrams     |
 
 ---
 
@@ -138,54 +130,28 @@ An exploration of customer default behavior based on demographics and payment pa
 Portfolio-Projects
 │
 ├── 📁 Project-1-Sales-Performance-Analysis
-│   ├── Sales_Returns_Performance_Analysis_Report.docx
-│   ├── Sales_Returns_Performance_Analysis_Report.pdf
-│   ├── Sales_Performance_Analysis_Dashboard.twbx
-│   ├── Sales_Performance_Analysis_Dashboard.png
-│   ├── Cleaned_Sales_Performance_Dataset.xlsx
-│   ├── Cleaned_Sales_Performance_Dataset.csv
-│   └── README.md
-│
 ├── 📁 Project-2-IT-Helpdesk-Analysis
-│   ├── IT_Helpdesk_Performance_Analysis_Report.docx
-│   ├── IT_Helpdesk_Performance_Analysis_Report.pdf
-│   ├── IT_Helpdesk_Analysis_Dashboard.twbx
-│   ├── IT_Helpdesk_Analysis_Dashboard.png
-│   ├── Cleaned_IT_Helpdesk_Dataset.xlsx
-│   ├── Cleaned_IT_Helpdesk_Dataset.csv
-│   └── README.md
-│
 ├── 📁 Project-3-Global-Logistics-Performance
-│   ├── Logistics_Performance_Analysis_Report.docx
-│   ├── Logistics_Performance_Analysis_Report.pdf
-│   ├── Logistics_Performance_Dashboard.pbix
-│   ├── Logistics_Performance_Dashboard.png
-│   ├── Cleaned_Logistics_Dataset.xlsx
-│   ├── Cleaned_Logistics_Dataset.csv
-│   ├── logistics_analysis_queries.sql
-│   └── README.md
-│
-├── 📁 Project-4-Credit-Risk-Analysis
-│   ├── CapitalOne_CreditRisk_Analysis_Report.docx
-│   ├── CapitalOne_CreditRisk_Analysis_Report.pdf
-│   ├── CapitalOne_CreditRisk_Dashboard.pbix
-│   ├── CapitalOne_CreditRisk_Dashboard.png
-│   ├── CapitalOne_CreditRisk_CleanedDataset.xlsx
-│   ├── CapitalOne_CreditRisk_CleanedDataset.csv
-│   ├── CapitalOne_CreditRisk_SQLQueries.sql
-│   └── README.md
-│
+├── 📁 Project-4-Capital-One-Credit-Risk-Analysis
 └── README.md (Main Portfolio Overview)
 ```
+
 ---
 
 ## Dataset Sources 🗃
-- [Sample - Superstore Sales Dataset (Tableau)](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls) — *Project 1: Sales & Returns Analysis*
-- [Customer Support Ticket Dataset (Kaggle)](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset) — *Project 2: IT Helpdesk Analysis*
-- [World Bank Logistics Performance Index (LPI)](https://lpi.worldbank.org/international) — *Project 3: Global Logistics Performance*
-- [Default of Credit Card Clients (UCI Repository)](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients) — *Project 4: Capital One Credit Risk Analysis*
+- [Sample - Superstore Sales Dataset (Tableau)](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls)
+- [Customer Support Ticket Dataset (Kaggle)](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
+- [World Bank Logistics Performance Index (LPI)](https://lpi.worldbank.org/international)
+- [Default of Credit Card Clients (UCI Repository)](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 
 ---
 
-## Thanks for visiting! 📬
-Feel free to explore the projects above, or [connect with me on LinkedIn](https://www.linkedin.com/in/lylecorymiller) if you'd like to chat, collaborate, or learn more.
+## Resume & Contact 📄
+📄 [Download My Resume (PDF)](./LyleMiller_Resume_2025.pdf)  
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/lylecorymiller)  
+📧 lylecmiller.work@gmail.com
+
+---
+
+## Final Thoughts 📬
+Thanks for visiting! Feel free to explore the projects above, or [connect with me on LinkedIn](https://www.linkedin.com/in/lylecorymiller) if you'd like to chat, collaborate, or learn more.
