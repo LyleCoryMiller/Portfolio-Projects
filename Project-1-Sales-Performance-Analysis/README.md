@@ -10,32 +10,33 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## 📚 Table of Contents
-- [Objectives](#-objectives)
-- [Tools Used](#️-tools-used)
-- [Key Insights](#-key-insights)
-- [Dashboard Preview](#-dashboard-preview)
-- [Report Access](#-report-access)
-- [Project Files & Instructions](#-project-files--instructions)
-- [Conclusion & Recommendations](#-conclusion--recommendations)
-- [Final Thoughts](#-final-thoughts)
+## Table of Contents 📚
+- [Objectives](#objectives-)
+- [Tools Used](#tools-used-)
+- [Key Insights](#key-insights-)
+- [Dashboard Preview](#dashboard-preview-)
+- [Report Access](#report-access-)
+- [Project Files & Instructions](#project-files--instructions-)
+- [Conclusion & Recommendations](#conclusion--recommendations-)
+- [Final Thoughts](#final-thoughts-)
+
 
 ---
 
-## 📌 Objectives
+## Table of Contents 📚
 - Analyze return rate and financial loss from returned items
 - Identify high-return product categories and segments
 - Support decision-making to improve sales performance and reduce losses
 
 ---
 
-## 🛠 Tools Used
+## Tools Used 🛠️
 - **Excel** – Data cleaning and calculated return metrics
 - **Tableau** – Visual dashboard for insights and KPIs
 
 ---
 
-## 📊 Key Insights
+## Key Insights 📈
 - **$23K+ in profit lost** due to product returns
 - **Top return categories**: Binders, Paper, Phones
 - **Return Rate**: ~8% of all orders involved returns
@@ -43,17 +44,17 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview 📊
 
 ![Dashboard Screenshot](./Sales_Returns_Analysis_Dashboard.png)
 
-## 📄 Report Access
+## Report Access 📄
 
 - [📄 View Final Report (PDF)](./Sales_Returns_Performance_Analysis_Report.pdf)
 
 ---
 
-## 📂 Project Files & Instructions
+## Project Files & Instructions 📂
 
 | File Name                                         | Description                                                            |
 |---------------------------------------------------|------------------------------------------------------------------------|
@@ -67,12 +68,12 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## 💡 Conclusion & Recommendations
+## Conclusion & Recommendations 💡
 - **Monitor & Reduce High-Return Products**: Improve quality and service for Binders, Paper, and Phones to minimize return impact.
 - **Implement Location-Based Return Strategies**: Focus on California, Texas, and New York with revised policies and better product tracking.
 - **Maximize Profitability**: Optimize inventory for low-return, high-margin categories like Copiers and Appliances.
 
 ---
 
-## 💡 Final Thoughts
+## Final Thoughts 📝
 This project demonstrates core capabilities expected of **Business Analysts**, **Operations Analysts**, and **CRM Specialists**—turning raw transaction data into actionable business insights. It demonstrates the ability to identify performance issues, support decision-making, and propose strategic improvements based on data.
