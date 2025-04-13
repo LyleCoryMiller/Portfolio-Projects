@@ -24,7 +24,7 @@
 - [Key Skills Demonstrated](#key-skills-demonstrated-)
 - [Focus Areas & Target Roles](#focus-areas--target-roles-)
 - [Tools & Technologies](#tools--technologies-)
-- [Featured Project - Capital One Credit Risk Analysis](#featured-project-)
+- [Featured Project - Capital One Credit Risk Analysis](#featured-project--Capital-One-Risk_Analysis)
 - [Full Project List](#full-project-list-)
 - [Repository Structure](#repository-structure-)
 - [Dataset Sources](#dataset-sources-)
