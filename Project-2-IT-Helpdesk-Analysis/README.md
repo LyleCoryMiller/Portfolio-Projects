@@ -11,32 +11,32 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 ---
 
 ## 📚 Table of Contents
-- [Objectives](#objectives)
-- [Tools Used](#tools-used)
-- [Key Insights](#key-insights)
-- [Dashboard Preview](#dashboard-preview)
-- [Report Access](#report-access)
-- [Project Files & Instructions](#project-files--instructions)
-- [Conclusion & Recommendations](#conclusion--recommendations)
-- [Final Thoughts](#final-thoughts)
+- [Objectives](#objectives-)
+- [Tools Used](#tools-used-)
+- [Key Insights](#key-insights-)
+- [Dashboard Preview](#dashboard-preview-)
+- [Report Access](#report-access-)
+- [Project Files & Instructions](#project-files--instructions-)
+- [Conclusion & Recommendations](#conclusion--recommendations-)
+- [Final Thoughts](#final-thoughts-)
 
 ---
 
-## 🎯 Objectives
+## Objectives 🎯
 - Analyze support ticket volume and resolution rates
 - Identify performance gaps by ticket type and priority
 - Recommend improvements to enhance helpdesk efficiency
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used 🛠️
 - **Excel** – Data cleaning and formatting
 - **SQL** – Querying and segmenting ticket insights
 - **Tableau** – Dashboard visualization and KPIs
 
 ---
 
-## 📈 Key Insights
+## Key Insights 📈
 - **49.6% resolution rate** across all tickets
 - **Pending Customer Response** caused most delays
 - **High/Medium priority tickets** created resolution bottlenecks
