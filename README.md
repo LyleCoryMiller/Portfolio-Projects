@@ -68,6 +68,17 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 
 ---
 
+## Tools & Technologies 🛠️
+| Tool        | Use Case                                      |
+|-------------|-----------------------------------------------|
+| **SQL**     | Data queries, segmentation, filtering         |
+| **Power BI**| KPI dashboards, reporting, visuals            |
+| **Tableau** | Data storytelling, service insights           |
+| **Excel**   | Data cleaning, transformation, metrics        |
+| **Lucidchart** | ERDs, DFDs, system analysis diagrams     |
+
+---
+
 ## Featured Project – Capital One Credit Risk Analysis 🚀
 An exploration of customer default behavior based on demographics and payment patterns.
 
@@ -104,17 +115,6 @@ An exploration of customer default behavior based on demographics and payment pa
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
 🔗 View Project Folder → `Project-4-Capital-One-Credit-Risk-Analysis`
-
----
-
-## Tools & Technologies 🛠️
-| Tool        | Use Case                                      |
-|-------------|-----------------------------------------------|
-| **SQL**     | Data queries, segmentation, filtering         |
-| **Power BI**| KPI dashboards, reporting, visuals            |
-| **Tableau** | Data storytelling, service insights           |
-| **Excel**   | Data cleaning, transformation, metrics        |
-| **Lucidchart** | ERDs, DFDs, system analysis diagrams     |
 
 ---
 
