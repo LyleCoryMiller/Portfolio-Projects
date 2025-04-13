@@ -78,7 +78,7 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 
 ---
 
-## Featured Project – Capital One Credit Risk Analysis 🚀
+## Featured Project – Capital One Credit Risk Analysis 📌
 An exploration of customer default behavior based on demographics and payment patterns.
 
 📊 Dashboard Preview:  
@@ -128,7 +128,7 @@ Portfolio-Projects
 ```
 ---
 
-## Dataset Sources 🗃
+## Dataset Sources 📌
 - [Sample - Superstore Sales Dataset (Tableau)](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls)
 - [Customer Support Ticket Dataset (Kaggle)](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset)
 - [World Bank Logistics Performance Index (LPI)](https://lpi.worldbank.org/international)
