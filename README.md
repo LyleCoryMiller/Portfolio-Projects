@@ -50,6 +50,8 @@ This portfolio reflects realistic challenges aligned with roles in **business an
 ## Portfolio Overview 🧠
 This repository features **real-world analysis projects** that reflect common challenges in business operations, systems support, financial risk, and global logistics. Each project leverages tools such as **SQL, Power BI, Tableau, and Excel** to deliver professional-grade insights aligned with hiring manager expectations.
 
+---
+
 ### Key Skills Demonstrated 📌
 - **KPI Reporting & Visualization** – Clear, executive-ready dashboards
 - **SQL Segmentation & Trend Analysis** – Practical queries for insight extraction
