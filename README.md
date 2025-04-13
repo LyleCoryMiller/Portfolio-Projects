@@ -19,16 +19,16 @@
 ---
 
 ## 📚 Table of Contents
-- [About Me](#about-me-)
-- [Portfolio Overview](#portfolio-overview-)
-- [Focus Areas & Target Roles](#focus-areas--target-roles-)
-- [Featured Project – Capital One Credit Risk Analysis](#featured-project--capital-one-credit-risk-analysis-)
-- [Full Project List](#full-project-list-)
-- [Tools & Technologies](#tools--technologies-)
-- [Repository Structure](#repository-structure-)
-- [Dataset Sources](#dataset-sources-)
-- [Resume & Contact](#resume--contact-)
-- [Final Thoughts](#final-thoughts-)
+- [About Me 📚](#about-me-)
+- [Portfolio Overview 🧠](#portfolio-overview-)
+- [Key Skills Demonstrated 📌](#key-skills-demonstrated-)
+- [Focus Areas & Target Roles 💼](#focus-areas--target-roles-)
+- [Tools & Technologies 🛠️](#tools--technologies-)
+- [Full Project List 📂](#full-project-list-)
+- [Repository Structure 📁](#repository-structure-)
+- [Dataset Sources 🗃](#dataset-sources-)
+- [Resume & Contact 📄](#resume--contact-)
+- [Final Thoughts 📝](#final-thoughts-)
 
 ---
 
@@ -75,7 +75,6 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 | **Power BI**| KPI dashboards, reporting, visuals            |
 | **Tableau** | Data storytelling, service insights           |
 | **Excel**   | Data cleaning, transformation, metrics        |
-| **Lucidchart** | ERDs, DFDs, system analysis diagrams     |
 
 ---
 
@@ -91,7 +90,6 @@ An exploration of customer default behavior based on demographics and payment pa
 ---
 
 ## Full Project List 📂
-
 ### `1️⃣ Sales & Returns Performance Analysis`
 - **Objective**: Assessed sales trends and return rates to reduce losses and improve profit margins.
 - **Key Tools**: Excel, Tableau
@@ -118,7 +116,7 @@ An exploration of customer default behavior based on demographics and payment pa
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure 📁
 ```
 Portfolio-Projects
 │
