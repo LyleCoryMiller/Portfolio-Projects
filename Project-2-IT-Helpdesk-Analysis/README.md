@@ -10,6 +10,18 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ---
 
+## 📚 Table of Contents
+- [Objectives](#objectives)
+- [Tools Used](#tools-used)
+- [Key Insights](#key-insights)
+- [Dashboard Preview](#dashboard-preview)
+- [Report Access](#report-access)
+- [Project Files & Instructions](#project-files--instructions)
+- [Conclusion & Recommendations](#conclusion--recommendations)
+- [Final Thoughts](#final-thoughts)
+
+---
+
 ## 📌 Objectives
 - Analyze support ticket volume and resolution rates
 - Identify performance gaps by ticket type and priority
@@ -30,6 +42,18 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 - **High/Medium priority tickets** created resolution bottlenecks
 - **Phone & Social Media channels** had the slowest response performance
 
+---
+
+## 📊 Dashboard Preview
+
+![IT_Helpdesk_Analysis_Dashboard](https://github.com/user-attachments/assets/b916b1e8-035b-4214-8659-7489b5199cc7)
+
+
+---
+
+## 📄 Report Access
+
+- [📄 Final Report (PDF)](https://github.com/user-attachments/files/19726580/IT_Helpdesk_Performance_Analysis_Report.pdf)
 ---
 
 ## 📂 Project Files & Instructions
@@ -55,3 +79,10 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ## 💡 Final Thoughts
 This project aligns with responsibilities of **Systems Analysts**, **Operations Analysts**, and **Business Analysts** by using structured data to evaluate IT service performance, recommend improvements, and reduce operational inefficiencies.
+
+
+
+![IT_Helpdesk_Analysis_Dashboard](https://github.com/user-attachments/assets/b916b1e8-035b-4214-8659-7489b5199cc7)
+
+
+[IT_Helpdesk_Performance_Analysis_Report.pdf](https://github.com/user-attachments/files/19726580/IT_Helpdesk_Performance_Analysis_Report.pdf)
