@@ -25,8 +25,6 @@
 - [Focus Areas & Target Roles](#focus-areas--target-roles-)
 - [Tools & Technologies](#tools--technologies-)
 - [Featured Project – Capital One Credit Risk Analysis](#featured-project--capital-one-credit-risk-analysis-)
-- [Report Access](#report-access-)
-- [Project_Folder](#project-folder-)
 - [Full Project List](#full-project-list-)
 - [Repository Structure](#repository-structure-)
 - [Dataset Sources](#dataset-sources-)
@@ -89,10 +87,10 @@ An exploration of customer default behavior based on demographics and payment pa
 📊 Dashboard Preview:  
 ![Capital One Dashboard](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
 
-📄Report Access:
+Report Access:
 📄 [View Full Report (PDF)](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf) 
 
-📂 Project Folder:
+Project Folder:
 🔗 [View Full Project Folder](./Project-4-Capital-One-Credit-Risk-Analysis)
 
 ---
