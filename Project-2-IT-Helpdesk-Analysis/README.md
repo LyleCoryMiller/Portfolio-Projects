@@ -10,7 +10,7 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ---
 
-## Table of Contents 📚
+## 📚 Table of Contents
 - [Objectives](#objectives-)
 - [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
