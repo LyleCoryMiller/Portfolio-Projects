@@ -1,4 +1,4 @@
-# 📌  Project 4 – Capital One Credit Risk Analysis
+# 📌 Project 4 – Capital One Credit Risk Analysis
 
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue) 
 ![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow) 
@@ -11,12 +11,11 @@ This project simulates how Capital One might evaluate the likelihood of customer
 
 ---
 
-## Table of Contents 📚
+## 📚 Table of Contents
 - [Objectives](#objectives-)
 - [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
 - [Dashboard Preview](#dashboard-preview-)
-- [Report Access](#report-access-)
 - [Project Files & Instructions](#project-files--instructions-)
 - [Conclusion & Recommendations](#conclusion--recommendations-)
 - [Final Thoughts](#final-thoughts-)
@@ -42,7 +41,6 @@ This project simulates how Capital One might evaluate the likelihood of customer
 | **Power BI**| KPI dashboards, reporting, visuals            |
 | **Excel**   | Data cleaning, transformation, metrics        |
 
-
 ---
 
 ## Key Insights 📈
@@ -57,12 +55,10 @@ This project simulates how Capital One might evaluate the likelihood of customer
 
 ![Dashboard Screenshot](./CapitalOne_CreditRisk_Dashboard.png)
 
-## Report Access 📄
-
+Report Access 📄
 - [📄 View Final Report (PDF)](./CapitalOne_CreditRisk_Analysis_Report.pdf)
 
-## SQL Queries 🧾
-
+SQL Queries 🧾
 - [🧾 View SQL Queries](./CapitalOne_CreditRisk_SQLQueries.sql)
 
 ---
