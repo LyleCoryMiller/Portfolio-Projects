@@ -18,7 +18,7 @@
 
 ---
 
-## Table of Contents
+## TABLE OF CONTENTS
 - [About Me](#about-me-)
 - [Portfolio Overview](#portfolio-overview-)
 - [Key Skills Demonstrated](#key-skills-demonstrated-)
