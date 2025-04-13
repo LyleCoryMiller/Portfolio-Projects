@@ -18,17 +18,17 @@
 
 ---
 
-## 📚 Table of Contents
-- [About Me 📚](#about-me-)
-- [Portfolio Overview 🧠](#portfolio-overview-)
-- [Key Skills Demonstrated 📌](#key-skills-demonstrated-)
-- [Focus Areas & Target Roles 💼](#focus-areas--target-roles-)
-- [Tools & Technologies 🛠️](#tools--technologies-)
-- [Full Project List 📂](#full-project-list-)
-- [Repository Structure 📁](#repository-structure-)
-- [Dataset Sources 🗃](#dataset-sources-)
-- [Resume & Contact 📄](#resume--contact-)
-- [Final Thoughts 📝](#final-thoughts-)
+## Table of Contents
+- [About Me](#about-me-)
+- [Portfolio Overview](#portfolio-overview-)
+- [Key Skills Demonstrated](#key-skills-demonstrated-)
+- [Focus Areas & Target Roles](#focus-areas--target-roles-)
+- [Tools & Technologies](#tools--technologies-)
+- [Full Project List](#full-project-list-)
+- [Repository Structure](#repository-structure-)
+- [Dataset Sources](#dataset-sources-)
+- [Resume & Contact](#resume--contact-)
+- [Final Thoughts](#final-thoughts-)
 
 ---
 
