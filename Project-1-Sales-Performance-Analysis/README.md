@@ -10,7 +10,7 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## 📌 Table of Contents
+## 📚 Table of Contents
 - [Objectives](#-objectives)
 - [Tools Used](#️-tools-used)
 - [Key Insights](#-key-insights)
@@ -35,7 +35,7 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## 📌 Key Insights
+## 📊 Key Insights
 - **$23K+ in profit lost** due to product returns
 - **Top return categories**: Binders, Paper, Phones
 - **Return Rate**: ~8% of all orders involved returns
@@ -68,7 +68,7 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
-## 📌 Conclusion & Recommendations
+## 💡 Conclusion & Recommendations
 - **Monitor & Reduce High-Return Products**: Improve quality and service for Binders, Paper, and Phones to minimize return impact.
 - **Implement Location-Based Return Strategies**: Focus on California, Texas, and New York with revised policies and better product tracking.
 - **Maximize Profitability**: Optimize inventory for low-return, high-margin categories like Copiers and Appliances.
