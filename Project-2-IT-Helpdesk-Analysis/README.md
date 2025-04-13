@@ -29,10 +29,11 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 
 ---
 
-## Tools Used 🛠️
-- **Excel** – Data cleaning and formatting
-- **SQL** – Querying and segmenting ticket insights
-- **Tableau** – Dashboard visualization and KPIs
+## Tools & Technologies 🛠️
+| Tool        | Use Case                                      |
+|-------------|-----------------------------------------------|
+| **Tableau**| KPI dashboards, reporting, visuals             |
+| **Excel**   | Data cleaning, transformation, metrics        |
 
 ---
 
