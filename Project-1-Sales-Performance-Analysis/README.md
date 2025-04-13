@@ -10,6 +10,18 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
+## 📌 Table of Contents
+- [Objectives](#-objectives)
+- [Tools Used](#️-tools-used)
+- [Key Insights](#-key-insights)
+- [Dashboard Preview](#-dashboard-preview)
+- [Report Access](#-report-access)
+- [Project Files & Instructions](#-project-files--instructions)
+- [Conclusion & Recommendations](#-conclusion--recommendations)
+- [Final Thoughts](#-final-thoughts)
+
+---
+
 ## 📌 Objectives
 - Analyze return rate and financial loss from returned items
 - Identify high-return product categories and segments
@@ -34,8 +46,6 @@ This project analyzes sales trends and return patterns to identify financial los
 ## 📊 Dashboard Preview
 
 ![Sales_Performance_Analysis_Dashboard](https://github.com/user-attachments/assets/7cef0745-0a15-4aa9-bfed-74cbb89cfa60)
-
-![Dashboard Preview](https://github.com/user-attachments/assets/bf55dae3-2130-4eb7-b0ee-0b3caa46ef8a)
 
 ---
 
