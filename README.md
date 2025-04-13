@@ -107,7 +107,7 @@ An exploration of customer default behavior based on demographics and payment pa
 
 ---
 
-## Tools & Technologies 🧰
+## Tools & Technologies 🛠️
 | Tool        | Use Case                                      |
 |-------------|-----------------------------------------------|
 | **SQL**     | Data queries, segmentation, filtering         |
