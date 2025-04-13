@@ -52,7 +52,7 @@ This project analyzes international logistics capabilities based on the World Ba
 ## Report Access 📄
 
 - [📄 View Final Report (PDF)](./Logistics_Performance_Analysis_Report.pdf)
-- [🧾 View SQL Queries](./logistics_analysis_queries.sql)
+- [📄 View SQL Queries](./logistics_analysis_queries.sql)
 
 ---
 
