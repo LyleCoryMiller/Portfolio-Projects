@@ -30,10 +30,12 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ---
 
-## Tools Used 🛠️
-- **Excel** – Data preparation and formatting
-- **SQL** – Segmentation and country scoring trends
-- **Power BI** – Dashboard reporting and LPI visualization
+## Tools & Technologies 🛠️
+| Tool        | Use Case                                      |
+|-------------|-----------------------------------------------|
+| **SQL**     | Data queries, segmentation, filtering         |
+| **Power BI**| KPI dashboards, reporting, visuals            |
+| **Excel**   | Data cleaning, transformation, metrics        |
 
 ---
 
