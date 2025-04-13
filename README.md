@@ -146,5 +146,5 @@ Portfolio-Projects
 
 ---
 
-## Final Thoughts 📬
+## Final Thoughts 📝
 Thanks for visiting! Feel free to explore the projects above, or [connect with me on LinkedIn](https://www.linkedin.com/in/lylecorymiller) if you'd like to chat, collaborate, or learn more.
