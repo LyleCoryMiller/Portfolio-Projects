@@ -31,6 +31,17 @@ This project analyzes sales trends and return patterns to identify financial los
 
 ---
 
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](./Sales_Returns_Performance_Analysis_Dashboard.png)
+
+---
+
+## 📄 Report Access
+
+- [📄 Final Report (PDF)](./Sales_Returns_Performance_Analysis_Report.pdf)
+
+---
 ## 📂 Project Files & Instructions
 
 | File Name                                         | Description                                                            |
