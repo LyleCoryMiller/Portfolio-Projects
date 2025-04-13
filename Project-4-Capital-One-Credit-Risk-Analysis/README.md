@@ -35,6 +35,14 @@ This project simulates how Capital One might evaluate the likelihood of customer
 - **SQL** – Risk segmentation and repayment trend analysis
 - **Power BI** – Dashboard creation for risk visualization
 
+## Tools & Technologies 🛠️
+| Tool        | Use Case                                      |
+|-------------|-----------------------------------------------|
+| **SQL**     | Data queries, segmentation, filtering         |
+| **Power BI**| KPI dashboards, reporting, visuals            |
+| **Excel**   | Data cleaning, transformation, metrics        |
+
+
 ---
 
 ## Key Insights 📈
