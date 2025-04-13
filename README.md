@@ -1,4 +1,4 @@
-## Lyle Cory Miller – Business & Systems Analysis Portfolio
+## 📌 Lyle Cory Miller – Business & Systems Analysis Portfolio
 
 ![Tool](https://img.shields.io/badge/Tool-Excel-blue)
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
@@ -14,11 +14,17 @@
 ![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
 ![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
-A collection of **business, operations, systems, and financial analysis** projects showcasing real-world problem-solving, structured decision-making, and professional dashboard development.
+Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions.  
+This portfolio showcases real-world projects that simulate challenges in operations, customer experience, and financial risk.  
+I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
 
 ---
 
-## 📌 About Me
+📄 [Download My Resume (PDF)](./LyleMiller_Resume_2025.pdf)
+
+---
+
+## 📚 About Me  
 I am a **Business and Operations Analyst** with a **Bachelor of Business Administration in Information Systems** from **Florida International University (FIU)**. My focus is on solving business problems through systems thinking, performance optimization, and data-supported strategy.
 
 This portfolio reflects realistic challenges aligned with roles in **business analysis**, **system performance**, **CRM support**, and **operational intelligence**.
@@ -32,6 +38,20 @@ This portfolio reflects realistic challenges aligned with roles in **business an
 
 🔗 [LinkedIn – lylecorymiller](https://www.linkedin.com/in/lylecorymiller/)  
 📧 lylecmiller.work@gmail.com
+
+---
+
+## 📚 Table of Contents
+- [About Me](#about-me)
+- [Portfolio Overview](#portfolio-overview)
+- [Focus Areas & Target Roles](#focus-areas--target-roles)
+- [Featured Project – Capital One Credit Risk Analysis](#featured-project--capital-one-credit-risk-analysis)
+- [Full Project List](#full-project-list)
+- [Tools & Technologies](#tools--technologies)
+- [Repository Structure](#repository-structure)
+- [Dataset Sources](#dataset-sources)
+- [Resume & Contact](#resume--contact)
+- [Final Thoughts](#final-thoughts)
 
 ---
 
@@ -54,6 +74,19 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 - **Systems Analyst** – IT & business alignment, help desk data, root-cause support
 - **CRM Analyst** – Customer behavior trends, retention insight, channel performance
 - **Business Intelligence (BI) Analyst** – Dashboard development, reporting, SQL analysis
+
+---
+
+### 🔍 Featured Project – Capital One Credit Risk Analysis
+
+An exploration of customer default behavior based on demographics and payment patterns.
+
+📊 Dashboard Preview:
+
+![Capital One Dashboard](./Project-4-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
+
+📄 [View Full Report](./Project-4-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)
+🔗 [View Full Project Folder](./Project-4-Credit-Risk-Analysis)
 
 ---
 
@@ -89,15 +122,18 @@ This portfolio reflects the expectations of **entry-level and junior analyst rol
 
 ---
 
-## 📌 Tools & Technologies
-- **SQL** – Data segmentation, queries, filtering
-- **Power BI** – Dashboards, KPI analysis, report building
-- **Tableau** – Data visualization, storytelling
-- **Excel** – Data cleaning, transformation, entry-level modeling
-  
+## Tools Used 🛠️
+| Tool        | Use Case                                      |
+|-------------|-----------------------------------------------|
+| **SQL**     | Data queries, segmentation, filtering         |
+| **Power BI**| KPI dashboards, reporting, executive visuals  |
+| **Tableau** | Data storytelling, ticket analysis, mapping   |
+| **Excel**   | Data cleaning, prep, return tracking           |
+| **Lucidchart** | System diagrams, ERDs, DFDs               |
+
 ---
 
-## 📁 Repository Structure
+## Repository Structure 📁
 ```
 Portfolio-Projects
 │
@@ -143,10 +179,13 @@ Portfolio-Projects
 ```
 ---
 
-## 📌 Dataset Sources
+## Dataset Sources 🗃
 - [Sample - Superstore Sales Dataset (Tableau)](https://www.tableau.com/sites/default/files/2021-05/Sample%20-%20Superstore.xls) — *Project 1: Sales & Returns Analysis*
 - [Customer Support Ticket Dataset (Kaggle)](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset) — *Project 2: IT Helpdesk Analysis*
 - [World Bank Logistics Performance Index (LPI)](https://lpi.worldbank.org/international) — *Project 3: Global Logistics Performance*
 - [Default of Credit Card Clients (UCI Repository)](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients) — *Project 4: Capital One Credit Risk Analysis*
 
 ---
+
+## Thanks for visiting! 📬
+Feel free to explore the projects above, or [connect with me on LinkedIn](https://www.linkedin.com/in/lylecorymiller) if you'd like to chat, collaborate, or learn more.
