@@ -52,7 +52,7 @@ This repository features **real-world analysis projects** that reflect common ch
 
 ---
 
-### Key Skills Demonstrated 📌
+## Key Skills Demonstrated 📌
 - **KPI Reporting & Visualization** – Clear, executive-ready dashboards
 - **SQL Segmentation & Trend Analysis** – Practical queries for insight extraction
 - **Process & System Optimization** – Identifying inefficiencies and improvements
