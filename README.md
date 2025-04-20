@@ -113,8 +113,8 @@ Project Folder:
 - **Key Tools**: Excel, SQL, Tableau
 - **Key Insights**: 49.6% resolution rate, delays from pending customer responses, medium/critical overload
 
-📊 View Project Dashboard → [Dashboard](./Project-2-IT-Helpdesk-Analysis/IT_Helpdesk_Analysis_Dashboard.png)
-📄 View Project Report → [Report (PDF)](./Project-2-IT-Helpdesk-Analysis/IT_Helpdesk_Performance_Analysis_Report.pdf)
+📊 View Project Dashboard → [Dashboard](./Project-2-IT-Helpdesk-Analysis/IT_Helpdesk_Analysis_Dashboard.png)  
+📄 View Project Report → [Report (PDF)](./Project-2-IT-Helpdesk-Analysis/IT_Helpdesk_Performance_Analysis_Report.pdf)  
 📁 View Project Folder → [Project Folder](./Project-2-IT-Helpdesk-Analysis)
 
 ### `3️⃣ Global Logistics Performance Analysis`
@@ -122,9 +122,9 @@ Project Folder:
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Top/Bottom countries, infrastructure quality gaps, global LPI improvement
 
-📊 View Project Dashboard → [Dashboard](./Project-3-Global-Logistics-Performance/Logistics_Performance_Dashboard.png)
-📄 View Project Report → [Report (PDF)](./Project-3-Global-Logistics-Performance/Logistics_Performance_Analysis_Report.pdf)
-🧮 View Project SQL → [SQL File](./Project-3-Global-Logistics-Performance/logistics_analysis_queries.sql)
+📊 View Project Dashboard → [Dashboard](./Project-3-Global-Logistics-Performance/Logistics_Performance_Dashboard.png)  
+📄 View Project Report → [Report (PDF)](./Project-3-Global-Logistics-Performance/Logistics_Performance_Analysis_Report.pdf)  
+🧮 View Project SQL → [SQL File](./Project-3-Global-Logistics-Performance/logistics_analysis_queries.sql)  
 📁 View Project Folder → [Project Folder](./Project-3-Global-Logistics-Performance)
 
 ### `4️⃣ Capital One Credit Risk Analysis`
@@ -132,9 +132,9 @@ Project Folder:
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
 
-📊 View Project Dashboard → [Dashboard](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)
-📄 View Project Report → [Report (PDF)](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)
-🧮 View Project SQL → [SQL File](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_SQLQueries.sql)
+📊 View Project Dashboard → [Dashboard](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)  
+📄 View Project Report → [Report (PDF)](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)  
+🧮 View Project SQL → [SQL File](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_SQLQueries.sql)  
 📁 View Project Folder → [Project Folder](./Project-4-Capital-One-Credit-Risk-Analysis)
 
 ---
