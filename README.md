@@ -104,38 +104,38 @@ Project Folder:
 - **Key Tools**: Excel, Tableau
 - **Key Insights**: High-return products, $23K profit loss, 8% return rate
 
-🔗 View Project Dashboard → 📊 [Dashboard](./Project-1-Sales-Performance-Analysis/Sales_Returns_Analysis_Dashboard.png)  
-🔗 View Project Report → 📄 [Report (PDF)](./Project-1-Sales-Performance-Analysis/SalesReturns_Performance_Analysis_Report.pdf)  
-🔗 View Project Folder → 📁 [Project Folder](./Project-1-Sales-Performance-Analysis)
+📊 View Project Dashboard → [Dashboard](./Project-1-Sales-Performance-Analysis/Sales_Returns_Analysis_Dashboard.png)  
+📄 View Project Report → [Report (PDF)](./Project-1-Sales-Performance-Analysis/Sales_Returns_Performance_Analysis_Report.pdf)  
+📁 View Project Folder → [Project Folder](./Project-1-Sales-Performance-Analysis)
 
 ### `2️⃣ IT Help Desk & Ticketing System Analysis`
 - **Objective**: Evaluated IT support performance and identified areas of delay across ticket channels.
 - **Key Tools**: Excel, SQL, Tableau
 - **Key Insights**: 49.6% resolution rate, delays from pending customer responses, medium/critical overload
 
-🔗 View Project Dashboard → 📊 [Dashboard](./Project-2-IT-Helpdesk-Analysis/ITHelpDesk_Analysis_Dashboard.png)  
-🔗 View Project Report → 📄 [Report (PDF)](./Project-2-IT-Helpdesk-Analysis/ITHelpDesk_Performance_Analysis_Report.pdf) 
-🔗 View Project Folder → 📁 [Project Folder](./Project-2-IT-Helpdesk-Analysis)
+📊 View Project Dashboard → [Dashboard](./Project-2-IT-Helpdesk-Analysis/IT_Helpdesk_Analysis_Dashboard.png)  
+📄 View Project Report → [Report (PDF)](./Project-2-IT-Helpdesk-Analysis/IT_Helpdesk_Performance_Analysis_Report.pdf) 
+📁 View Project Folder → [Project Folder](./Project-2-IT-Helpdesk-Analysis)
 
 ### `3️⃣ Global Logistics Performance Analysis`
 - **Objective**: Analyzed global LPI scores from 2010–2023 to assess trade infrastructure.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Top/Bottom countries, infrastructure quality gaps, global LPI improvement
 
-🔗 View Project Dashboard → 📊 [Dashboard](./Project-3-Global-Logistics-Performance/Logistics_Performance_Dashboard.png)  
-🔗 View Project Report → 📄 [Report (PDF)](./Project-3-Global-Logistics-Performance/Logistics_Performance_Analysis_Report.pdf)
-🔗 View Project SQL → 🧮 [SQL File](./Project-3-Global-Logistics-Performance/logistics_analysis_queries_sql)  
-🔗 View Project Folder → 📁 [Project Folder](./Project-3-Global-Logistics-Performance)
+📊 View Project Dashboard → [Dashboard](./Project-3-Global-Logistics-Performance/Logistics_Performance_Dashboard.png)  
+📄 View Project Report → [Report (PDF)](./Project-3-Global-Logistics-Performance/Logistics_Performance_Analysis_Report.pdf)
+🧮 View Project SQL → [SQL File](./Project-3-Global-Logistics-Performance/logistics_analysis_queries.sql)
+📁 View Project Folder → [Project Folder](./Project-3-Global-Logistics-Performance)
 
 ### `4️⃣ Capital One Credit Risk Analysis`
 - **Objective**: Analyzed customer default patterns using financial and demographic indicators.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
 
-🔗 View Project Dashboard → 📊 [Dashboard](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)  
-🔗 View Project Report → 📄 [Report (PDF)](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)  
-🔗 View Project SQL → 🧮 [SQL File](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_SQL.sql)  
-🔗 View Project Folder → 📁 [Project Folder](./Project-4-Capital-One-Credit-Risk-Analysis)
+📊 View Project Dashboard → [Dashboard](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)  
+📄 View Project Report → [Report (PDF)](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)  
+🧮 View Project SQL → [SQL File](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_SQLQueries.sql)   
+📁 View Project Folder → [Project Folder](./Project-4-Capital-One-Credit-Risk-Analysis)
 
 ---
 
