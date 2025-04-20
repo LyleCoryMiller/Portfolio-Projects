@@ -103,7 +103,8 @@ Project Folder:
 - **Objective**: Assessed sales trends and return rates to reduce losses and improve profit margins.
 - **Key Tools**: Excel, Tableau
 - **Key Insights**: High-return products, $23K profit loss, 8% return rate
-📊 [Dashboard](./Project-1-Sales-Performance-Analysis/SalesReturns_Analysis_Dashboard.png)  
+
+📊 [Dashboard](./Project-1-Sales-Performance-Analysis/Sales_Returns_Analysis_Dashboard.png)  
 📄 [Report (PDF)](./Project-1-Sales-Performance-Analysis/SalesReturns_Performance_Analysis_Report.pdf)  
 🔗 View Project Folder → 📁 [Project Folder](./Project-1-Sales-Performance-Analysis)
 
@@ -111,6 +112,7 @@ Project Folder:
 - **Objective**: Evaluated IT support performance and identified areas of delay across ticket channels.
 - **Key Tools**: Excel, SQL, Tableau
 - **Key Insights**: 49.6% resolution rate, delays from pending customer responses, medium/critical overload
+
 📊 [Dashboard](./Project-2-IT-Helpdesk-Analysis/ITHelpDesk_Analysis_Dashboard.png)  
 📄 [Report (PDF)](./Project-2-IT-Helpdesk-Analysis/ITHelpDesk_Performance_Analysis_Report.pdf) 
 🔗 View Project Folder → 📁 [Project Folder](./Project-2-IT-Helpdesk-Analysis)
@@ -119,6 +121,7 @@ Project Folder:
 - **Objective**: Analyzed global LPI scores from 2010–2023 to assess trade infrastructure.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Top/Bottom countries, infrastructure quality gaps, global LPI improvement
+
 📊 [Dashboard](./Project-3-Global-Logistics-Performance/Logistics_Performance_Dashboard.png)  
 📄 [Report (PDF)](./Project-3-Global-Logistics-Performance/Logistics_Performance_Analysis_Report.pdf)
 🧮 [SQL File](./Project-3-Global-Logistics-Performance/logistics_analysis_queries_sql)  
@@ -128,6 +131,7 @@ Project Folder:
 - **Objective**: Analyzed customer default patterns using financial and demographic indicators.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
+
 📊 [Dashboard](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Dashboard.png)  
 📄 [Report (PDF)](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_CreditRisk_Analysis_Report.pdf)  
 🧮 [SQL File](./Project-4-Capital-One-Credit-Risk-Analysis/CapitalOne_SQL.sql)  
