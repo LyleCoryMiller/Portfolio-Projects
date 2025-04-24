@@ -24,9 +24,9 @@ This project analyzes international logistics capabilities based on the World Ba
 ---
 
 ## Objectives 🎯
-- Evaluate global logistics infrastructure performance from 2010 to 2023
-- Identify countries with the strongest and weakest logistics scores
-- Recommend regional improvements for trade optimization
+- Evaluate global logistics infrastructure performance from 2010 to 2023.
+- Identify countries with the strongest and weakest logistics scores.
+- Recommend regional improvements for trade optimization.
 
 ---
 
@@ -40,10 +40,10 @@ This project analyzes international logistics capabilities based on the World Ba
 ---
 
 ## Key Insights 📈
-- **Top performers**: Germany, Singapore, Netherlands led in infrastructure & customs
+- **Top performers**: Germany, Singapore, Netherlands led in infrastructure & customs.
 - **Bottom 5 LPI countries averaged <45% in customs scores**, delaying shipments by 6+ days.  
-- **LPI Global Trend**: Overall improvement in LPI from 2010 to 2023
-- **Customs & Timeliness** were most volatile dimensions year-over-year
+- **LPI Global Trend**: Overall improvement in LPI from 2010 to 2023.
+- **Customs & Timeliness** were most volatile dimensions year-over-year.
 
 ---
 
@@ -74,9 +74,9 @@ This project analyzes international logistics capabilities based on the World Ba
 ---
 
 ## Conclusion & Recommendations 💡
-- **Prioritize Infrastructure Investment**: Focus on low-performing countries with poor LPI customs scores
-- **Streamline Border Procedures**: Enhance customs clearance and reduce time-to-ship delays
-- **Leverage Global Leaders**: Model supply chain policies after top LPI-ranked nations
+- **Prioritize Infrastructure Investment**: Focus on low-performing countries with poor LPI customs scores.
+- **Streamline Border Procedures**: Enhance customs clearance and reduce time-to-ship delays.
+- **Leverage Global Leaders**: Model supply chain policies after top LPI-ranked nations.
 
 ---
 
