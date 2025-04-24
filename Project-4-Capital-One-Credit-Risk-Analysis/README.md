@@ -81,6 +81,7 @@ This project simulates how Capital One might evaluate the likelihood of customer
 - **Target Age & Repayment Risk**: Monitor age groups with high risk and repeated late payments
 - **Refine Credit Strategies**: Align credit limits with repayment history to manage exposure
 - **Implement Early Intervention**: Use PAY_0 flags to trigger proactive outreach
+- **Automate Risk Flagging**: Use SQL conditions to dynamically flag high-risk customers in real time. This enables credit teams to prioritize early intervention and integrate risk signals into BI dashboards.
 
 ---
 
