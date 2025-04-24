@@ -24,16 +24,16 @@ This project simulates how Capital One might evaluate the likelihood of customer
 ---
 
 ## Objectives 🎯
-- Analyze repayment behavior and key risk indicators
-- Identify customer segments with higher default probability
-- Help credit teams make informed lending decisions
+- Analyze repayment behavior and key risk indicators.
+- Identify customer segments with higher default probability.
+- Help credit teams make informed lending decisions.
 
 ---
 
 ## Tools Used 🛠️
-- **Excel** – Data cleaning and preparation
-- **SQL** – Risk segmentation and repayment trend analysis
-- **Power BI** – Dashboard creation for risk visualization
+- **Excel** – Data cleaning and preparation.
+- **SQL** – Risk segmentation and repayment trend analysis.
+- **Power BI** – Dashboard creation for risk visualization.
 
 ## Tools & Technologies 🛠️
 | Tool        | Use Case                                      |
@@ -45,10 +45,10 @@ This project simulates how Capital One might evaluate the likelihood of customer
 ---
 
 ## Key Insights 📈
-- **Default Rate**: ~22% of customers defaulted on payments
-- **High Risk Factors**: Customers with payment delay codes (PAY_0 >= 2)
-- **Age Group**: Customers around 73 years had the highest default rate (75%)
-- **Credit Limits** Higher limits generally lowered default risk, but some high-credit customers still defaulted
+- **Default Rate**: ~22% of customers defaulted on payments.
+- **High Risk Factors**: Customers with payment delay codes (PAY_0 >= 2).
+- **Age Group**: Customers around 73 years had the highest default rate (75%).
+- **Credit Limits** Higher limits generally lowered default risk, but some high-credit customers still defaulted.
 
 ---
 
@@ -78,9 +78,9 @@ This project simulates how Capital One might evaluate the likelihood of customer
 ---
 
 ## Conclusion & Recommendations 💡
-- **Target Age & Repayment Risk**: Monitor age groups with high risk and repeated late payments
-- **Refine Credit Strategies**: Align credit limits with repayment history to manage exposure
-- **Implement Early Intervention**: Use PAY_0 flags to trigger proactive outreach
+- **Target Age & Repayment Risk**: Monitor age groups with high risk and repeated late payments.
+- **Refine Credit Strategies**: Align credit limits with repayment history to manage exposure.
+- **Implement Early Intervention**: Use PAY_0 flags to trigger proactive outreach.
 - **Automate Risk Flagging**: Use SQL conditions to dynamically flag high-risk customers in real time. This enables credit teams to prioritize early intervention and integrate risk signals into BI dashboards.
 
 ---
