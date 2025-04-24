@@ -105,7 +105,7 @@ Project Folder:
 - **Key Insights**: High-return products, $23K profit loss, 8% return rate
 
 📊 View Project Dashboard → [Dashboard](./Project-1-Sales-Performance-Analysis/Sales_Returns_Analysis_Dashboard.png)  
-📄 View Project Report → [Report (PDF)](./Project-1-Sales-Performance-Analysis/Sales_Returns_Performance_Analysis_Report.pdf) 
+📄 View Project Report → [Report (PDF)](./Project-1-Sales-Performance-Analysis/Sales_Returns_Performance_Analysis_Report.pdf)  
 📁 View Project Folder → [Project Folder](./Project-1-Sales-Performance-Analysis)
 
 ### `2️⃣ IT Help Desk & Ticketing System Analysis`
