@@ -41,7 +41,7 @@ This project analyzes international logistics capabilities based on the World Ba
 
 ## Key Insights 📈
 - **Top performers**: Germany, Singapore, Netherlands led in infrastructure & customs
-- **Bottom performers**: Chad, Afghanistan, Somalia faced chronic inefficiencies
+- **Bottom 5 LPI countries averaged <45% in customs scores**, delaying shipments by 6+ days.  
 - **LPI Global Trend**: Overall improvement in LPI from 2010 to 2023
 - **Customs & Timeliness** were most volatile dimensions year-over-year
 
