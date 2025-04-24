@@ -23,9 +23,9 @@ This project analyzes sales trends and return patterns to identify financial los
 ---
 
 ## Table of Contents 📚
-- Analyze return rate and financial loss from returned items
-- Identify high-return product categories and segments
-- Support decision-making to improve sales performance and reduce losses
+- Analyze return rate and financial loss from returned items.
+- Identify high-return product categories and segments.
+- Support decision-making to improve sales performance and reduce losses.
 
 ---
 
@@ -38,10 +38,10 @@ This project analyzes sales trends and return patterns to identify financial los
 ---
 
 ## Key Insights 📈
-- **$23K+ in profit lost** due to product returns
-- **Top return categories**: Binders, Paper, Phones
-- **Return Rate**: ~8% of all orders involved returns
-- **High-loss regions**: California, Texas, and New York drove major return-related losses
+- **Over $23,000 in profit was lost due to returned products**, with California and Texas responsible for over 35% of that loss.
+- **Top return categories**: Binders, Paper, Phones.
+- **Return Rate**: ~8% of all orders involved returns.
+- **High-loss regions**: California, Texas, and New York drove major return-related losses.
 
 ---
 
