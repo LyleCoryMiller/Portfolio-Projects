@@ -23,9 +23,9 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 ---
 
 ## Objectives 🎯
-- Analyze support ticket volume and resolution rates
-- Identify performance gaps by ticket type and priority
-- Recommend improvements to enhance helpdesk efficiency
+- Analyze support ticket volume and resolution rates.
+- Identify performance gaps by ticket type and priority.
+- Recommend improvements to enhance helpdesk efficiency.
 
 ---
 
@@ -38,10 +38,10 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 ---
 
 ## Key Insights 📈
-- **49.6% resolution rate** across all tickets
+- **49.6% resolution rate** across all tickets.
 - **Tickets marked “Pending Customer Response” were responsible for over 60% of resolution delays**, indicating a key follow-up gap in agent workflows.
-- **High/Medium priority tickets** created resolution bottlenecks
-- **Phone & Social Media channels** had the slowest response performance
+- **High/Medium priority tickets** created resolution bottlenecks.
+- **Phone & Social Media channels** had the slowest response performance.
 
 ---
 
