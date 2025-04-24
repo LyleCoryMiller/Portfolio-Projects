@@ -33,7 +33,7 @@
 
 ---
 
-## About Me 📚
+## About Me 📌
 I am a **Business and Operations Analyst** with a **Bachelor of Business Administration in Information Systems** from **Florida International University (FIU)**. My focus is on solving business problems through systems thinking, performance optimization, and data-supported strategy.
 
 This portfolio reflects realistic challenges aligned with roles in **business analysis**, **system performance**, **CRM support**, and **operational intelligence**.
@@ -105,7 +105,7 @@ Project Folder:
 - **Key Insights**: High-return products, $23K profit loss, 8% return rate
 
 📊 View Project Dashboard → [Dashboard](./Project-1-Sales-Performance-Analysis/Sales_Returns_Analysis_Dashboard.png)  
-📄 View Project Report → [Report (PDF)](./Project-1-Sales-Performance-Analysis/Sales_Returns_Performance_Analysis_Report.pdf)  
+📄 View Project Report → [Report (PDF)](./Project-1-Sales-Performance-Analysis/Sales_Returns_Performance_Analysis_Report.pdf) 
 📁 View Project Folder → [Project Folder](./Project-1-Sales-Performance-Analysis)
 
 ### `2️⃣ IT Help Desk & Ticketing System Analysis`
@@ -167,4 +167,6 @@ Portfolio-Projects
 ---
 
 ## Final Thoughts 📝
-Thanks for visiting! Feel free to explore the projects above, or [connect with me on LinkedIn](https://www.linkedin.com/in/lylecorymiller) if you'd like to chat, collaborate, or learn more.
+Thanks for visiting! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/lylecorymiller) or explore the live version of my portfolio:
+
+🌐 [lylecorymiller.carrd.co](https://lylecorymiller.carrd.co)
