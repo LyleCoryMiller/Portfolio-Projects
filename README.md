@@ -14,7 +14,7 @@
 ![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
 ![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
-👋 Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions. TThis portfolio showcases real-world projects that reflect challenges in operations, customer experience, CRM, and financial risk. I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
+👋 Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions. This portfolio showcases real-world projects that reflect challenges in operations, customer experience, CRM, and financial risk. I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
 
 ---
 
