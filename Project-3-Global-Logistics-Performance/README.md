@@ -1,4 +1,5 @@
-# 📌 Project 3 – Global Logistics Performance Analysis
+# Global Logistics Performance Dashboard | SQL + Power BI  
+_Note: Also listed as “Global Logistics Performance Dashboard” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue) 
 ![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow) 
