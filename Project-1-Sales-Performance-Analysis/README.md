@@ -1,4 +1,5 @@
-# 📌 Project 1 – Sales & Returns Performance Analysis
+# Sales Returns Strategy & Profitability Dashboard | Excel + Tableau
+_Note: Also listed as “Sales Returns Strategy & Profitability Dashboard” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
 ![Tool](https://img.shields.io/badge/Tool-Excel-green) 
@@ -6,7 +7,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Returns_Insights-lightgrey) 
 ![Dataset](https://img.shields.io/badge/Dataset-Superstore-lightgrey)
 
-This project analyzes sales trends and return patterns to identify financial losses and optimize profitability. The dataset highlights key insights into high-return products, customer behavior, and regional return impact.
+This project analyzes sales trends and return patterns to identify financial losses and optimize profitability. The dataset highlights key insights into high-return product categories, customer behavior, and regional return patterns.
 
 ---
 
