@@ -1,16 +1,16 @@
 # Lyle Cory Miller – Business, CRM & Systems Analyst Portfolio
 
+📌 *This repository serves as a curated portfolio overview, pinned alongside 4 individual project repositories. Each project includes full documentation, dashboards, and real-world business insights. Designed for Business, CRM, BI, and Systems Analyst roles.*
+
 ![Tool](https://img.shields.io/badge/Tool-Excel-blue)
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
 ![Tool](https://img.shields.io/badge/Tool-Power%20BI-gold)
 ![Tool](https://img.shields.io/badge/Tool-Tableau-lightgrey)
-
 ![Focus](https://img.shields.io/badge/Focus-Business%20Analysis-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-CRM-blueviolet)
 ![Focus](https://img.shields.io/badge/Focus-Operations%20Analysis-green)
 ![Focus](https://img.shields.io/badge/Focus-Systems%20Analysis-darkgreen)
 ![Focus](https://img.shields.io/badge/Focus-BI%20Analytics-darkblue)
-
 ![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
 ![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
