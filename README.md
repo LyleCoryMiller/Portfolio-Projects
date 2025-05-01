@@ -179,4 +179,4 @@ Thanks for visiting! Feel free to connect on [LinkedIn](https://www.linkedin.com
 
 🌐 [lylecorymiller.carrd.co](https://lylecorymiller.carrd.co)
 
-> ⚠️ **Note**: Project titles used here are aligned with those listed on my resume and LinkedIn profile to ensure cross-platform consistency.
+> ⚠️ **Note**: This repository is pinned as a portfolio overview alongside 4 individual project repositories. For best viewing, visit the featured dashboards and full case study documentation.
