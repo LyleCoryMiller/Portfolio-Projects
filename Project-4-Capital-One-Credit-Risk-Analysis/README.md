@@ -1,4 +1,7 @@
-# Capital One Credit Risk & CRM Segmentation Dashboard | SQL + Power BI  
+# Capital One Credit Risk & CRM Segmentation Dashboard | SQL + Power BI
+
+![Dashboard Screenshot](./CapitalOne_CreditRisk_Dashboard.png)
+
 _Note: Also listed as “Capital One Credit Risk & CRM Segmentation Dashboard” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue) 
@@ -16,7 +19,6 @@ This project simulates how Capital One might evaluate the likelihood of customer
 - [Objectives](#objectives-)
 - [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
-- [Dashboard Preview](#dashboard-preview-)
 - [Report_Access](#report-access-)
 - [Project Files & Instructions](#project-files--instructions-)
 - [Conclusion & Recommendations](#conclusion--recommendations-)
@@ -47,10 +49,6 @@ This project simulates how Capital One might evaluate the likelihood of customer
 - **Credit Limits** Higher limits generally lowered default risk, but some high-credit customers still defaulted.
 
 ---
-
-## Dashboard Preview 📊
-
-![Dashboard Screenshot](./CapitalOne_CreditRisk_Dashboard.png)
 
 ## Report Access 📄
 - [📄 View Final Report (PDF)](./CapitalOne_CreditRisk_Analysis_Report.pdf)
