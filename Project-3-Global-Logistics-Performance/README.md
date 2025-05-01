@@ -1,4 +1,7 @@
 # Global Logistics Performance Dashboard | SQL + Power BI  
+
+![Dashboard Screenshot](./Logistics_Performance_Dashboard.png)
+
 _Note: Also listed as “Global Logistics Performance Dashboard” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue) 
@@ -47,10 +50,6 @@ This project analyzes international logistics capabilities based on the World Ba
 - **Customs & Timeliness** were most volatile dimensions year-over-year.
 
 ---
-
-## Dashboard Preview 📊
-
-![Dashboard Screenshot](./Logistics_Performance_Dashboard.png)
 
 ## Report Access 📄
 
