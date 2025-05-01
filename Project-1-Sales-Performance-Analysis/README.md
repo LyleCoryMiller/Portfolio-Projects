@@ -1,4 +1,7 @@
 # Sales Returns Strategy & Profitability Dashboard | Excel + Tableau
+
+![Dashboard Screenshot](./Sales_Returns_Analysis_Dashboard.png)
+
 _Note: Also listed as “Sales Returns Strategy & Profitability Dashboard” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
@@ -15,7 +18,6 @@ This project analyzes sales trends and return patterns to identify financial los
 - [Objectives](#objectives-)
 - [Tools Used](#tools-used-)
 - [Key Insights](#key-insights-)
-- [Dashboard Preview](#dashboard-preview-)
 - [Report Access](#report-access-)
 - [Project Files & Instructions](#project-files--instructions-)
 - [Conclusion & Recommendations](#conclusion--recommendations-)
@@ -45,10 +47,6 @@ This project analyzes sales trends and return patterns to identify financial los
 - **High-loss regions**: California, Texas, and New York drove major return-related losses.
 
 ---
-
-## Dashboard Preview 📊
-
-![Dashboard Screenshot](./Sales_Returns_Analysis_Dashboard.png)
 
 ## Report Access 📄
 
@@ -80,4 +78,5 @@ This project analyzes sales trends and return patterns to identify financial los
 ## Final Thoughts 📝
 This project demonstrates core capabilities expected of **Business Analysts**, **Operations Analysts**, and **CRM Specialists**—turning raw transaction data into actionable business insights. It demonstrates the ability to identify performance issues, support decision-making, and propose strategic improvements based on data.
 
-> ⚠️ This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
+> ⚠️ This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. 
+      For more projects, visit my main GitHub portfolio.
