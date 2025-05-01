@@ -1,4 +1,7 @@
 # IT Workflow & KPI Optimization | Excel + Tableau  
+
+![Dashboard Screenshot](./IT_Helpdesk_Analysis_Dashboard.png)
+
 _Note: Also listed as “IT Workflow & KPI Optimization” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
@@ -45,10 +48,6 @@ This project evaluates IT helpdesk ticket performance to uncover response delays
 - **Phone & Social Media channels** had the slowest response performance.
 
 ---
-
-## Dashboard Preview 📊
-
-![Dashboard Screenshot](./IT_Helpdesk_Analysis_Dashboard.png)
 
 ## Report Access 📄
 
