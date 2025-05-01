@@ -1,5 +1,5 @@
-# Credit Risk & CRM Segmentation Dashboard | SQL + Power BI  
-_Note: Also listed as “Credit Risk & CRM Segmentation Dashboard” on my resume and LinkedIn profile._
+# Capital One Credit Risk & CRM Segmentation Dashboard | SQL + Power BI  
+_Note: Also listed as “Capital One Credit Risk & CRM Segmentation Dashboard” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue) 
 ![Tool](https://img.shields.io/badge/Tool-Power_BI-yellow) 
