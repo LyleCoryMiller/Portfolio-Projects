@@ -1,4 +1,4 @@
-# 📌 Lyle Cory Miller – Business & Systems Analysis Portfolio
+# Lyle Cory Miller – Business, CRM & Systems Analyst Portfolio
 
 ![Tool](https://img.shields.io/badge/Tool-Excel-blue)
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
@@ -14,7 +14,7 @@
 ![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
 ![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
-👋 Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions. This portfolio showcases real-world projects that simulate challenges in operations, customer experience, and financial risk. I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
+👋 Hi, I’m **Lyle Cory Miller** — a Business & Systems Analyst with a passion for using data to drive better business decisions. TThis portfolio showcases real-world projects that reflect challenges in operations, customer experience, CRM, and financial risk. I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
 
 ---
 
@@ -39,11 +39,11 @@ I am a **Business and Operations Analyst** with a **Bachelor of Business Adminis
 This portfolio reflects realistic challenges aligned with roles in **business analysis**, **system performance**, **CRM support**, and **operational intelligence**.
 
 📜 **Certifications**:
-- Google Data Analytics Professional Certificate  
-- Google Project Management Professional Certificate  
-- Agile Project Management – LinkedIn Learning  
-- Business Analysis – LinkedIn Learning  
-- SQL, Power BI, and Data Visualization – LinkedIn Learning
+📌 Google Data Analytics Professional Certificate  
+📌 Google Project Management Professional Certificate  
+📌 Agile Project Management – LinkedIn Learning  
+📌 Business Analysis – LinkedIn Learning  
+📌 SQL, Power BI, and Data Visualization – LinkedIn Learning
 
 ---
 
@@ -160,7 +160,7 @@ Portfolio-Projects
 ---
 
 ## Resume & Contact 📄
-📄 [Download My Resume (PDF)](https://github.com/user-attachments/files/19951292/Lyle_Miller_Resume_General_2025.pdf)
+📄 [Download My Resume (PDF)](https://github.com/user-attachments/files/20001901/Lyle_Miller_Resume_General_2025.pdf)
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/lylecorymiller)  
 📧 lylecmiller.work@gmail.com
 
@@ -170,3 +170,5 @@ Portfolio-Projects
 Thanks for visiting! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/lylecorymiller) or explore the live version of my portfolio:
 
 🌐 [lylecorymiller.carrd.co](https://lylecorymiller.carrd.co)
+
+> ⚠️ **Note**: Project titles used here are aligned with those listed on my resume and LinkedIn profile.
