@@ -100,6 +100,8 @@ Project Folder:
 
 ## Full Project List 📂
 ### `1️⃣ Sales & Returns Performance Analysis`
+_Note: Also listed as “Sales Returns Strategy & Profitability Dashboard” on my resume and LinkedIn profile._
+
 - **Objective**: Assessed sales trends and return rates to reduce losses and improve profit margins.
 - **Key Tools**: Excel, Tableau
 - **Key Insights**: High-return products, $23K profit loss, 8% return rate
@@ -109,6 +111,8 @@ Project Folder:
 📁 View Project Folder → [Project Folder](./Project-1-Sales-Performance-Analysis)
 
 ### `2️⃣ IT Help Desk & Ticketing System Analysis`
+_Note: Also listed as “IT Workflow & KPI Optimization” on my resume and LinkedIn profile._
+
 - **Objective**: Evaluated IT support performance and identified areas of delay across ticket channels.
 - **Key Tools**: Excel, SQL, Tableau
 - **Key Insights**: 49.6% resolution rate, delays from pending customer responses, medium/critical overload
@@ -118,6 +122,8 @@ Project Folder:
 📁 View Project Folder → [Project Folder](./Project-2-IT-Helpdesk-Analysis)
 
 ### `3️⃣ Global Logistics Performance Analysis`
+_Note: Also listed as “Global Logistics Performance Dashboard” on my resume and LinkedIn profile._
+
 - **Objective**: Analyzed global LPI scores from 2010–2023 to assess trade infrastructure.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Top/Bottom countries, infrastructure quality gaps, global LPI improvement
@@ -128,6 +134,8 @@ Project Folder:
 📁 View Project Folder → [Project Folder](./Project-3-Global-Logistics-Performance)
 
 ### `4️⃣ Capital One Credit Risk Analysis`
+_Note: Also listed as “Capital One Credit Risk & CRM Segmentation Dashboard” on my resume and LinkedIn profile._
+
 - **Objective**: Analyzed customer default patterns using financial and demographic indicators.
 - **Key Tools**: Excel, SQL, Power BI
 - **Key Insights**: Default risks by education/age/payment status, credit limits vs risk
@@ -171,4 +179,5 @@ Thanks for visiting! Feel free to connect on [LinkedIn](https://www.linkedin.com
 
 🌐 [lylecorymiller.carrd.co](https://lylecorymiller.carrd.co)
 
-> ⚠️ **Note**: Project titles used here are aligned with those listed on my resume and LinkedIn profile.
+
+> ⚠️ **Note**: Project titles used here are aligned with those listed on my resume and LinkedIn profile to ensure cross-platform consistency.
