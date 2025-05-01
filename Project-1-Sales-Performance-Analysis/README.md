@@ -78,5 +78,4 @@ This project analyzes sales trends and return patterns to identify financial los
 ## Final Thoughts 📝
 This project demonstrates core capabilities expected of **Business Analysts**, **Operations Analysts**, and **CRM Specialists**—turning raw transaction data into actionable business insights. It demonstrates the ability to identify performance issues, support decision-making, and propose strategic improvements based on data.
 
-> ⚠️ This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. 
-      For more projects, visit my main GitHub portfolio.
+> ⚠️ This project is part of a business-focused analytics portfolio designed to support CRM, operations, and BI roles. For more projects, visit my main GitHub portfolio.
