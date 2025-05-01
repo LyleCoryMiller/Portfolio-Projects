@@ -1,4 +1,5 @@
-# 📌 Project 2 – IT Helpdesk Performance Analysis
+# IT Workflow & KPI Optimization | Excel + Tableau  
+_Note: Also listed as “IT Workflow & KPI Optimization” on my resume and LinkedIn profile._
 
 ![Tool](https://img.shields.io/badge/Tool-Tableau-blue) 
 ![Tool](https://img.shields.io/badge/Tool-Excel-green) 
