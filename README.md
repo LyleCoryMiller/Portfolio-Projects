@@ -1,5 +1,7 @@
 # Lyle Cory Miller – Business, CRM & Systems Analyst Portfolio
 
+*Turning data into business strategy across CRM, BI, and systems.*
+
 📌 *This repository serves as a curated portfolio overview, pinned alongside 4 individual project repositories. Each project includes full documentation, dashboards, and real-world business insights. Designed for Business, CRM, BI, and Systems Analyst roles.*
 
 ![Tool](https://img.shields.io/badge/Tool-Excel-blue)
