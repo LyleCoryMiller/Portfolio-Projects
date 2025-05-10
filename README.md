@@ -2,7 +2,7 @@
 
 *Turning data into business strategy across CRM, BI, and systems.*
 
-📌 *This repository serves as a curated portfolio overview, pinned alongside 4 individual project repositories. Each project includes full documentation, dashboards, and real-world business insights. Designed for Business, CRM, BI, and Systems Analyst roles.*
+📌 *This repository serves as a curated portfolio overview, pinned alongside 4 individual project repositories. Each project includes full documentation, dashboards, and real-world business insights. Designed for roles in Data, Business, CRM, BI, and Systems Analysis.*
 
 ![Tool](https://img.shields.io/badge/Tool-Excel-blue)
 ![Tool](https://img.shields.io/badge/Tool-SQL-blue)
@@ -16,7 +16,10 @@
 ![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
 ![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
-👋 Hi, I’m **Lyle Cory Miller** — a Business, Data & Systems Analyst with a passion for using data to drive better business decisions. This portfolio showcases real-world projects that reflect challenges in operations, customer experience, CRM, and financial risk. I approach problems with structured thinking, SQL-powered analysis, and professional dashboards to deliver insights that matter.
+# About Me👋 
+I’m a **Business, Data & CRM Analyst** with a **B.B.A. in Information Systems** from Florida International University (FIU). I specialize in solving business challenges through data analysis, systems thinking, and dashboard development.
+
+This portfolio simulates real-world workflows across **data analytics, BI reporting, CRM segmentation,** and **IT operations**, aligned with the expectations of junior analyst roles.
 
 ---
 
@@ -35,41 +38,41 @@
 
 ---
 
-## About Me 📌
-I am a **Business, Data & CRM Analyst** with a **Bachelor of Business Administration in Information Systems** from **Florida International University (FIU)**. My focus is on solving business problems through systems thinking, performance optimization, and data-supported strategy.
-
-This portfolio reflects realistic challenges aligned with roles in **business analysis**, **system performance**, **CRM support**, and **operational intelligence**.
-
 📜 **Certifications**:
-📌 Google Data Analytics Professional Certificate  
-📌 Google Project Management Professional Certificate  
-📌 Agile Project Management – LinkedIn Learning  
-📌 Business Analysis – LinkedIn Learning  
-📌 SQL, Power BI, and Data Visualization – LinkedIn Learning
+📌 **Google Data Analytics Professional Certificate** – Google/Coursera
+📌 **Google Project Management Professional Certificate** – Google/Coursera 
+📌 **Agile Project Management** – LinkedIn Learning  
+📌 **Business Analysis** – LinkedIn Learning  
+📌 **SQL, Power BI, and Data Visualization** – LinkedIn Learning
 
 ---
 
 ## Portfolio Overview 🧠
-This repository features **real-world analysis projects** that reflect common challenges in business operations, systems support, financial risk, and global logistics. Each project leverages tools such as **SQL, Power BI, Tableau, and Excel** to deliver professional-grade insights aligned with hiring manager expectations.
+Each project uses real datasets to reflect practical business problems in **credit risk, logistics, IT ticketing,** and **sales returns.**
+I used **SQL, Excel, Power BI,** and **Tableau** to simulate stakeholder-ready deliverables across functional teams.
 
 ---
 
 ## Key Skills Demonstrated 📌
-- **KPI Reporting & Visualization** – Clear, executive-ready dashboards
+- **Data Analytics & Segmentation** – Practical SQL queries & customer segmentation
+- **KPI Reporting & Visualization** – Clear, interactive dashboards for business decisions
+- **System & Process Optimization** – Root-cause insights, efficiency improvements
 - **SQL Segmentation & Trend Analysis** – Practical queries for insight extraction
 - **Process & System Optimization** – Identifying inefficiencies and improvements
 - **Business Decision Support** – Translating data into actionable strategy
+- **CRM Workflow Support** – Retention trend analysis and behavior-based segmentation
 
 ---
 
 ## Focus Areas & Target Roles 💼
 This portfolio reflects the expectations of **entry-level and junior analyst roles**, with strong alignment to:
 
-- **Business Analyst** – Insight generation, executive reporting, opportunity analysis
+- **Data Analyst** – Dashboard creation, reporting, segmentation, KPI monitoring
+- **Business Analyst** – Operational insights, stakeholder reporting, opportunity analysis
+- **CRM Analyst** – Customer behavior trends, retention insight, segmentation dashboards
 - **Operations Analyst** – Process optimization, service performance tracking
-- **Systems Analyst** – IT & business alignment, help desk data, root-cause support
-- **CRM Analyst** – Customer behavior trends, retention insight, channel performance
-- **Business Intelligence (BI) Analyst** – Dashboard development, reporting, SQL analysis
+- **BI Analyst** – SQL reporting, visual analytics, decision support
+- **Systems Analyst** – Help desk metrics, UAT support, IT workflow audits
 
 ---
 
@@ -170,7 +173,7 @@ Portfolio-Projects
 ---
 
 ## Resume & Contact 📄
-📄 [Download My Resume (PDF)](https://github.com/user-attachments/files/20093538/Lyle_Miller_Resume_GENERAL_2025_Final.pdf)
+📄 [Download My Resume (PDF)](https://github.com/user-attachments/files/20144085/Lyle_Miller_Resume_GENERAL_2025_Final.pdf)
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/lylecorymiller)  
 📧 lylecmiller.work@gmail.com
 
