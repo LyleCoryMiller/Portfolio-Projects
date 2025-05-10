@@ -1,4 +1,4 @@
-# Lyle Cory Miller – Business, CRM & Systems Analyst Portfolio
+# Lyle Cory Miller – Business, Data, CRM & Systems Analyst Portfolio
 
 *Turning data into business strategy across CRM, BI, and systems.*
 
