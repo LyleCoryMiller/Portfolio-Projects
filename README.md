@@ -16,7 +16,7 @@
 ![Projects](https://img.shields.io/badge/Projects-Real--World%20Datasets-informational)
 ![Level](https://img.shields.io/badge/Level-Entry--Level-orange)
 
-# About Me👋 
+# 👋 About Me 
 I’m a **Business, Data & CRM Analyst** with a **B.B.A. in Information Systems** from Florida International University (FIU). I specialize in solving business challenges through data analysis, systems thinking, and dashboard development.
 
 This portfolio simulates real-world workflows across **data analytics, BI reporting, CRM segmentation,** and **IT operations**, aligned with the expectations of junior analyst roles.
