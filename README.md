@@ -39,11 +39,11 @@ This portfolio simulates real-world workflows across **data analytics, BI report
 ---
 
 📜 **Certifications**:
-📌 **Google Data Analytics Professional Certificate** – Google/Coursera
-📌 **Google Project Management Professional Certificate** – Google/Coursera 
-📌 **Agile Project Management** – LinkedIn Learning  
-📌 **Business Analysis** – LinkedIn Learning  
-📌 **SQL, Power BI, and Data Visualization** – LinkedIn Learning
+📌 **Google Data Analytics Professional Certificate** – Google/Coursera  
+📌 **Google Project Management Professional Certificate** – Google/Coursera   
+📌 **Agile Project Management** – LinkedIn Learning    
+📌 **Business Analysis** – LinkedIn Learning    
+📌 **SQL, Power BI, and Data Visualization** – LinkedIn Learning  
 
 ---
 
