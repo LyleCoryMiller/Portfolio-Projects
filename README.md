@@ -173,7 +173,7 @@ Portfolio-Projects
 ---
 
 ## Resume & Contact 📄
-📄 [Download My Resume (PDF)](https://github.com/user-attachments/files/20144085/Lyle_Miller_Resume_GENERAL_2025_Final.pdf)
+📄 [Download My Resume (PDF)](https://github.com/user-attachments/files/20526568/Lyle_Miller_Analyst_Resume_2025.pdf)
 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/lylecorymiller)  
 📧 lylecmiller.work@gmail.com
 
